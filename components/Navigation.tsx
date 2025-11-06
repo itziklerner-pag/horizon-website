@@ -42,8 +42,9 @@ export default function Navigation() {
               alt="Horizon Fuel Cell"
               width={140}
               height={40}
-              className="h-10 w-auto transition-transform duration-300 group-hover:scale-105"
+              className="h-10 w-auto transition-transform duration-300 group-hover:scale-105 brightness-[2] contrast-[1.1]"
               priority
+              unoptimized
             />
           </Link>
 

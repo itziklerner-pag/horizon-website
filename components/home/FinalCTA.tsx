@@ -165,6 +165,7 @@ export function FinalCTA() {
                   height={36}
                   className="h-8 w-auto"
                   style={{ minWidth: '120px' }}
+                  unoptimized
                 />
               </div>
               <div className="flex flex-wrap gap-4 justify-center">

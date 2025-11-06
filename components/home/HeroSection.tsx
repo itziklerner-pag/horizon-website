@@ -49,9 +49,10 @@ export function HeroSection() {
                 alt="Horizon Fuel Cell North America logo"
                 width={200}
                 height={60}
-                className="mx-auto w-auto"
+                className="mx-auto w-auto brightness-[2] contrast-[1.1]"
                 style={{ minWidth: '120px', height: 'auto' }}
                 priority
+                unoptimized
               />
             </div>
           </div>

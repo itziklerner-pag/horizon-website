@@ -2,8 +2,6 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import Navigation from '@/components/Navigation';
-import Footer from '@/components/Footer';
 import SearchBar from '@/components/resources/SearchBar';
 import FilterBar from '@/components/resources/FilterBar';
 
@@ -284,8 +282,6 @@ export default function WhitepapersPage() {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <Navigation />
-
       {/* Hero Section */}
       <section className="bg-gradient-to-br from-deep-slate to-gray-800 text-white py-16">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
@@ -406,8 +402,6 @@ export default function WhitepapersPage() {
         onClose={() => setShowModal(false)}
         whitepaper={selectedWhitepaper}
       />
-
-      <Footer />
     </div>
   );
 }
