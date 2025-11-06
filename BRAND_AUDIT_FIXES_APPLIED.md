@@ -1,4 +1,4 @@
-# Brand Audit Fixes Applied - Horizon Fuel Cell Website
+#  Brand Audit Fixes Applied - Horizon Fuel Cell Website
 
 **Date:** November 6, 2025
 **Scope:** Critical brand compliance fixes based on BRAND_AUDIT_REPORT.md
