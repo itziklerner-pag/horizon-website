@@ -3,23 +3,23 @@
 
 **Report Date:** November 13, 2025
 **Analysis Scope:** Comparison of existing vs. updated competitive strategy documents
-**Focus:** Bloom Energy competitive positioning and website messaging recommendations
+**Focus:** SOFC competitive positioning and website messaging recommendations
 
 ---
 
 ## Executive Summary
 
-The updated strategy documents reveal a significant **refinement and sharpening** of Horizon's competitive positioning, particularly against Bloom Energy. While the core differentiators remain consistent, the updated strategy provides more precise messaging, clearer battle cards, and stronger technical positioning that should be reflected across the website.
+The updated strategy documents reveal a significant **refinement and sharpening** of Horizon's competitive positioning, particularly against SOFC. While the core differentiators remain consistent, the updated strategy provides more precise messaging, clearer battle cards, and stronger technical positioning that should be reflected across the website.
 
 **Key Strategic Shifts Identified:**
 
 1. **Enhanced Technology Differentiation**: Pure hydrogen PEM vs. natural gas SOFC positioning is now more prominent
 2. **Sharper Speed Advantage**: 4-month deployment (updated) vs. 90-day claim (existing) provides more realistic competitive positioning
-3. **More Sophisticated Reliability Messaging**: Specific mention of "four nines with N+1 redundancy" vs. Bloom's "three nines"
+3. **More Sophisticated Reliability Messaging**: Specific mention of "four nines with N+1 redundancy" vs. SOFC's "three nines"
 4. **Clearer SMR Bridge Strategy**: Addition of natural gas-to-hydrogen pathway addresses market reality
 5. **Refined Emissions Positioning**: Zero on-site emissions (pure H2) vs. 60-70% reduction (SMR) provides honest dual messaging
 
-**Website Alignment Gap:** The current website does not mention Bloom Energy by name and lacks the sophisticated competitive comparison frameworks present in the updated strategy.
+**Website Alignment Gap:** The current website does not mention SOFC by name and lacks the sophisticated competitive comparison frameworks present in the updated strategy.
 
 ---
 
@@ -29,25 +29,25 @@ The updated strategy documents reveal a significant **refinement and sharpening*
 
 | Aspect | Existing Strategy | Updated Strategy | Strategic Implication |
 |--------|------------------|------------------|----------------------|
-| **Primary Competitor** | Bloom Energy (implicit) | Bloom Energy (explicit) | Be more direct in competitive messaging |
-| **Bloom's Technology** | Solid Oxide (SOFC), natural gas | Same + "hydrogen-ready" marketing | Attack "hydrogen-ready" vs "hydrogen-first" |
-| **Bloom's Market Position** | Enterprise-only, California focus | Fortune 100 focus, 44% market share | Position as accessible alternative to dominant player |
-| **Bloom's Vulnerabilities** | Complex, opaque pricing | Added: thermal cycling fragility, 10-year lifespan, high-temp brittleness | Expand technical objection handling |
+| **Primary Competitor** | SOFC (implicit) | SOFC (explicit) | Be more direct in competitive messaging |
+| **SOFC's Technology** | Solid Oxide (SOFC), natural gas | Same + "hydrogen-ready" marketing | Attack "hydrogen-ready" vs "hydrogen-first" |
+| **SOFC's Market Position** | Enterprise-only, California focus | Fortune 100 focus, 44% market share | Position as accessible alternative to dominant player |
+| **SOFC's Vulnerabilities** | Complex, opaque pricing | Added: thermal cycling fragility, 10-year lifespan, high-temp brittleness | Expand technical objection handling |
 | **Secondary Competitors** | Grid + Diesel | Grid + Diesel + SMRs (nuclear) | Address nuclear timeline advantage (Horizon faster) |
 
-**Key Insight:** The updated strategy acknowledges Bloom's market dominance (44% share, $1.47B revenue) more explicitly, positioning Horizon as a challenger with superior technology and customer experience.
+**Key Insight:** The updated strategy acknowledges SOFC's market dominance (44% share, $1.47B revenue) more explicitly, positioning Horizon as a challenger with superior technology and customer experience.
 
 ### 1.2 Positioning Statement Evolution
 
 **Existing Core Message:**
-> "From PO to Power-On in 90 Days — Deploy Your Data Center in Months, Not Years"
+> "From Deployment start in 90 Days — Deploy Your Data Center in Months, Not Years"
 
 **Updated Core Message (Refined):**
-> "Zero on-site emission fuel cell solutions eliminating 18-48 month grid bottleneck. Deploy in as low as 4 months with 99.99% uptime and N+1 redundancy."
+> "Zero on-site emission fuel cell solutions eliminating 18-48 month grid bottleneck. Deployment start as low as 4 months with 99.99% uptime and N+1 redundancy."
 
 **Analysis:**
 - **More Realistic Timeline**: "90 days" → "as low as 4 months" (more credible)
-- **Technical Precision**: Added "N+1 redundancy" and "four nines" vs. Bloom's "three nines"
+- **Technical Precision**: Added "N+1 redundancy" and "four nines" vs. SOFC's "three nines"
 - **Emissions Clarity**: "Zero on-site emissions" more prominent (pure hydrogen pathway)
 - **Grid Context**: "18-48 month bottleneck" makes the pain point explicit
 
@@ -61,7 +61,7 @@ The updated strategy documents reveal a significant **refinement and sharpening*
 
 #### A. Fuel Cell Type Comparison (NEW DETAIL)
 
-| Feature | Horizon (PEM) | Bloom (SOFC) | Competitive Advantage |
+| Feature | Horizon (PEM) | SOFC (SOFC) | Competitive Advantage |
 |---------|--------------|--------------|----------------------|
 | **Operating Temperature** | 60-80°C | 800-1000°C | **Safety, faster startup, no thermal cycling risk** |
 | **Start-up Time** | Minutes | Hours | **Better for variable demand, cycling applications** |
@@ -82,7 +82,7 @@ The updated strategy documents reveal a significant **refinement and sharpening*
 - "N+1 redundancy"
 
 **Updated Messaging (More Competitive):**
-- "99.99% (four nines) with N+1 redundancy" vs. Bloom's "99.9% (three nines)"
+- "99.99% (four nines) with N+1 redundancy" vs. SOFC's "99.9% (three nines)"
 - "Hot-swappable components" (new detail)
 - "Less than 5 minutes downtime per year" (explicit)
 - "No catastrophic failures across 50M+ hours"
@@ -96,23 +96,23 @@ The updated strategy documents reveal a significant **refinement and sharpening*
 **Existing Strategy:**
 - "90-day deployment" (aspirational)
 - vs. "18-48 months grid" (accurate)
-- vs. "6-12 months Bloom" (competitive)
+- vs. "12-24 months (SOFC)" (competitive)
 
 **Updated Strategy (More Nuanced):**
 - **Pure H2 Systems**: "4 months" (realistic)
 - **SMR-Integrated Systems**: "4-6 months" (with on-site reforming)
-- **Bloom Reality Check**: "6-12 months claim, but 10 years for Equinix to reach 100MW"
+- **SOFC Reality Check**: "6-12 months claim, but 10 years for Equinix to reach 100MW"
 - **Grid**: "18-48 months" (unchanged)
 
 **Competitive Messaging Improvement:**
 ```
-OLD: "Deploy in 90 days vs. Bloom's 6-12 months"
-NEW: "Deploy in 4 months vs. Bloom's 6-12 month claim (reality: Equinix took 10 years to scale)"
+OLD: "Deploy in 90 days vs. SOFC's 6-12 months"
+NEW: "Deployment start as low as 4 months vs. SOFC's 6-12 month claim (reality: Equinix took 10 years to scale)"
 ```
 
 **Website Implementation:**
 - Update `/app/why/time-to-market/components/TimelineComparison.tsx` to show 120 days (4 months) instead of 90
-- Add "Bloom Energy" row showing 180-365 days with asterisk about scaling reality
+- Add "SOFC" row showing 180-365 days with asterisk about scaling reality
 - Maintain "90 days" as best-case for modular installations
 
 ### 2.3 SMR Integration Strategy (NEW)
@@ -123,22 +123,21 @@ The updated strategy includes a comprehensive "Solutions for Natural Gas" sectio
 
 **Key Technical Specifications (NEW):**
 - **System**: On-site SMR + fuel cell integration
-- **Hydrogen Production**: 100,000+ Nm³/h capability
 - **Efficiency**: 75-80% with CHP (vs. 60% electrical alone)
 - **Emissions**: "60-70% reduction vs. diesel generators"
 - **Timeline**: 4-6 months deployment
 - **Use Case**: "Bridge to pure hydrogen" for natural gas infrastructure markets
 
 **Competitive Significance:**
-- **Addresses Bloom's Natural Gas Territory**: Bloom operates primarily on natural gas; Horizon can now compete directly
-- **Honest Transition Messaging**: "60-70% reduction" is more credible than Bloom's "hydrogen-ready" (which is 100% natural gas today)
+- **Addresses SOFC's Natural Gas Territory**: SOFC operates primarily on natural gas; Horizon can now compete directly
+- **Honest Transition Messaging**: "60-70% reduction" is more credible than SOFC's "hydrogen-ready" (which is 100% natural gas today)
 - **Dual Pathway**: Pure H2 for sustainability leaders, SMR for pragmatic markets
 
 **Website Gap:** The website currently does NOT mention SMR solutions. This is a critical addition needed.
 
 **Implementation Required:**
 1. Add "Natural Gas Solutions" to product portfolio on Solutions pages
-2. Create comparison: Pure H2 (0g CO₂) vs. SMR (60-70% reduction) vs. Bloom NG (still produces CO₂)
+2. Create comparison: Pure H2 (0g CO₂) vs. SMR (60-70% reduction) vs. SOFC NG (still produces CO₂)
 3. Position as "bridge technology with clear path to zero emissions"
 
 ---
@@ -155,14 +154,14 @@ The updated strategy includes a comprehensive "Solutions for Natural Gas" sectio
 #### Updated Messaging (More Sophisticated):
 - **Pure Hydrogen**: "Zero on-site emissions" (only water vapor byproduct)
 - **SMR Integration**: "60-70% reduction in on-site emissions vs. diesel generators"
-- **Competitive**: "Zero on-site emissions with pure hydrogen vs. Bloom's CO₂ emissions from natural gas"
+- **Competitive**: "Zero on-site emissions with pure hydrogen vs. SOFC's CO₂ emissions from natural gas"
 - **Future Pathway**: "Renewable hydrogen pathway to 100% carbon-free operations"
 
 **Key Refinement:** Separation of "zero on-site" (pure H2) from "60-70% reduction" (SMR) provides honest, defensible positioning.
 
 **Website Update Needed:**
 - `/app/why/environmental/page.tsx` should clarify **two pathways**: Pure H2 (zero) vs. SMR (reduced)
-- Add competitive comparison table: Horizon Pure H2 (0g CO₂) | Horizon SMR (60-70% reduction) | Bloom NG (CO₂ emissions) | Diesel (high emissions)
+- Add competitive comparison table: Horizon Pure H2 (0g CO₂) | Horizon SMR (60-70% reduction) | SOFC NG (CO₂ emissions) | Diesel (high emissions)
 
 ### 3.2 Cost Positioning Refinement
 
@@ -175,7 +174,7 @@ The updated strategy includes a comprehensive "Solutions for Natural Gas" sectio
 - **TCO Advantage**: "25-35% lower total cost versus diesel+grid"
 - **Timeline Value**: "Eliminate $2M-5M grid interconnection fees"
 - **Operational Savings**: "No demand charges, no peak pricing"
-- **Lifespan**: "20-year lifespan" (vs. Bloom's 10-year fuel cell replacement)
+- **Lifespan**: "20-year lifespan" (vs. SOFC's 10-year fuel cell replacement)
 
 **Competitive Angle Added:**
 ```
@@ -184,10 +183,9 @@ NEW: "20-year system lifespan vs. 10-year stack replacement"
 NEW: "Federal and state tax incentives for hydrogen"
 ```
 
-**Website Gap:** ROI calculator does not currently factor in Bloom's 10-year replacement costs vs. Horizon's 20-year lifespan. This is a significant TCO advantage.
+**Website Gap:** cost calculator does not currently factor in SOFC's 10-year replacement costs vs. Horizon's 20-year lifespan. This is a significant TCO advantage.
 
 **Implementation:**
-- Update `/app/calculators/roi/utils/calculations.ts` to include equipment replacement cycles
 - Add "Cost of Ownership Comparison" section to Solutions pages showing 20-year timeline
 - Highlight "No major equipment replacement" for first 20 years
 
@@ -199,16 +197,16 @@ NEW: "Federal and state tax incentives for hydrogen"
 - "Start generating revenue immediately"
 
 #### Updated Messaging (More Quantified):
-- "Deploy in as low as 4 months"
+- "Deployment start as low as 4 months"
 - "Eliminate 18-48 month grid connection bottleneck"
-- **NEW**: "4 months vs. 6-12 months (Bloom) vs. 18-48 months (grid)"
+- **NEW**: "4 months vs. 12-24 months (SOFC) vs. 18-48 months (grid)"
 - **NEW**: "Pre-engineered systems ship and install in as low as 4 months"
 - **NEW**: "Modular scaling to match demand"
 
 **Website Implementation:**
 - Update all instances of "90 days" to "as low as 4 months" for primary systems
 - Reserve "90 days" for modular expansions or best-case scenarios
-- Add explicit "vs. Bloom Energy 6-12 months" comparison
+- Add explicit "vs. SOFC 6-12 months" comparison
 
 ---
 
@@ -223,12 +221,12 @@ Horizon Fuel Cell | Diesel Generator | Battery Storage
 
 **Updated Strategy Comparison:**
 ```
-Horizon (Pure H2) | Bloom Energy | Traditional Grid + Diesel
+Horizon (Pure H2) | SOFC | Traditional Grid + Diesel
 ```
 
 **Recommended New Framework:**
 ```
-                    Horizon      Bloom         Grid+Diesel   SMRs
+                    Horizon      SOFC         Grid+Diesel   SMRs
                     Pure H2      SOFC NG       Traditional   Nuclear
 Time to Market      4 months     6-12 months   18-48 months  6-15 years
 Reliability         99.99% (N+1) 99.9%         99.9%         99.9%+
@@ -236,18 +234,18 @@ On-Site Emissions   Zero         CO₂           High (diesel) Zero (ops)
 Operating Temp      60-80°C      800-1000°C    N/A           High
 Start-up Time       Minutes      Hours         N/A           Days/Weeks
 Fuel                Pure H2      Natural Gas   Diesel        Uranium
-Scalability         Modular      Fixed 250kW   N/A           Fixed GW
+Scalability         Modular      Fixed 325kW   N/A           Fixed GW
 TCO (20yr)          Baseline     +10-15%       +30-40%       Variable
 ```
 
 **Website Implementation:**
 1. Create new "Competitive Comparison" page under `/why/competitive-advantage`
-2. Add Bloom Energy column to existing comparison tables
+2. Add SOFC column to existing comparison tables
 3. Include SMR/Nuclear as "future alternatives" row
 
 ### 4.2 Battle Card Framework (NEW in Updated Strategy)
 
-**Updated Strategy includes explicit "When Horizon is Best Choice" vs. "When Bloom May Be Considered" sections**
+**Updated Strategy includes explicit "When Horizon is Best Choice" vs. "When SOFC May Be Considered" sections**
 
 #### When Horizon is Best Choice:
 1. **Zero on-site emissions requirement** (corporate sustainability goals)
@@ -257,24 +255,24 @@ TCO (20yr)          Baseline     +10-15%       +30-40%       Variable
 5. **Future-proof technology** (hydrogen economy alignment)
 6. **Regions with hydrogen infrastructure or plans**
 
-#### When Bloom May Be Considered:
+#### When SOFC May Be Considered:
 1. **Existing natural gas infrastructure** (Horizon addresses this with SMR now)
 2. **California markets with utility incentives**
 3. **Lower initial sustainability requirements**
-4. **Existing Bloom relationship**
+4. **Existing SOFC relationship**
 
 **Website Gap:** No "Why Choose Horizon" decisioning framework currently exists.
 
 **Implementation Required:**
 - Create `/why/when-to-choose-horizon` page
 - Add interactive "Solution Selector" tool: Answer 5 questions → Recommends Pure H2, SMR, or "Talk to Expert"
-- Include honest "When Bloom Might Fit" section (builds credibility)
+- Include honest "When SOFC Might Fit" section (builds credibility)
 
 ### 4.3 Technical Comparison Enhancement
 
 **Updated Strategy adds specific technical vulnerabilities:**
 
-| Bloom Weakness | Technical Impact | Horizon Advantage |
+| SOFC Weakness | Technical Impact | Horizon Advantage |
 |----------------|------------------|-------------------|
 | **1,800°F operation** | Thermal cycling fragility, ceramic shattering | 60-80°C = safer, field-serviceable, faster startup |
 | **10-year lifespan** | Replacement costs, TCO uncertainty | 90,000+ hours = longer lifetime economics |
@@ -305,7 +303,7 @@ Hero: "Power Your Data Center in 4 Months, Not Years"
       "Horizon fuel cells eliminate the 18-48 month grid bottleneck"
 
 Value Props:
-- 4-Month Deployment (vs. 6-12 months Bloom, 18-48 months grid)
+- 4-Month Deployment (vs. 12-24 months (SOFC), 18-48 months grid)
 - Four 9s with N+1 Redundancy (vs. three 9s typical)
 - Zero On-Site Emissions (pure hydrogen) OR 60-70% Reduction (SMR)
 - 25-35% Lower TCO (20-year lifespan vs. 10-year replacements)
@@ -331,7 +329,7 @@ Value Props:
 **Section 2: Deployment Speed**
 - 4 months vs. 6-12 months claim (Equinix reality check: 10 years to 100MW)
 - Timeline visualization
-- "Time is Money" ROI calculator
+- "Time is Money" cost calculator
 
 **Section 3: Environmental Performance**
 - Pure H2: Zero on-site emissions vs. Natural Gas: CO₂ emissions
@@ -344,7 +342,7 @@ Value Props:
 - No thermal management complexity
 
 **Section 5: When to Choose Each**
-- Honest assessment of Bloom's strengths (enterprise scale, California presence)
+- Honest assessment of SOFC's strengths (enterprise scale, California presence)
 - Clear articulation of Horizon advantages (speed, sustainability, TCO)
 - "Talk to an Expert" CTA for nuanced decisions
 
@@ -378,12 +376,12 @@ Each solution page (`/solutions/hyperscale`, `/colocation`, `/edge`, `/utility`)
 **Key Messaging:**
 - "Two pathways to clean power"
 - "Bridge technology with clear path to zero emissions"
-- "More honest than 'hydrogen-ready' marketing (looking at you, Bloom)"
+- "More honest than 'hydrogen-ready' marketing (looking at you, SOFC)"
 
 ### 5.4 Comparison Table Updates
 
 **Current Tables Missing:**
-- Bloom Energy comparison
+- SOFC comparison
 - SMR solution differentiation
 - 20-year TCO analysis
 
@@ -394,7 +392,7 @@ Each solution page (`/solutions/hyperscale`, `/colocation`, `/edge`, `/utility`)
 Solution              Deployment Timeline    Reality Check
 ────────────────────────────────────────────────────────────
 Horizon Fuel Cell     4 months               Proven: 50M+ hours deployed
-Bloom Energy          6-12 months claim      Equinix: 10 years to 100MW
+SOFC          6-12 months claim      Equinix: 10 years to 100MW
 Natural Gas Pipeline  12-18 months           Utility approval delays
 Grid Connection       18-48 months           Queue times increasing
 SMRs (Nuclear)        6-15 years             First commercial by 2030+
@@ -402,7 +400,7 @@ SMRs (Nuclear)        6-15 years             First commercial by 2030+
 
 #### Table 2: Technology Comparison (NEW)
 ```
-Feature               Horizon PEM            Bloom SOFC
+Feature               Horizon PEM            SOFC SOFC
 ────────────────────────────────────────────────────────────
 Operating Temp        60-80°C                800-1000°C
 Start-up Time         Minutes                Hours
@@ -420,7 +418,7 @@ Solution              On-Site CO₂    Pathway to Zero    Timeline
 ──────────────────────────────────────────────────────────────────
 Horizon Pure H2       0g             Already zero       Immediate
 Horizon SMR           60-70% reduced Green H2 upgrade   2-5 years
-Bloom NG              CO₂ emissions  "Hydrogen-ready"   Unclear
+SOFC NG              CO₂ emissions  "Hydrogen-ready"   Unclear
 Grid + Diesel         High           No pathway         N/A
 ```
 
@@ -430,11 +428,11 @@ Grid + Diesel         High           No pathway         N/A
 
 ### 6.1 Primary Competitive Objections (Updated Strategy)
 
-#### Objection 1: "Bloom Energy is the market leader with proven deployments"
+#### Objection 1: "SOFC is the market leader with proven deployments"
 
 **Updated Response Framework:**
 ```
-ACKNOWLEDGE: "Bloom has 44% market share and 1,200+ installations—they're established."
+ACKNOWLEDGE: "SOFC has 44% market share and 1,200+ installations—they're established."
 
 DIFFERENTIATE: "But market leadership doesn't mean best technology. Consider:
 - Their SOFC runs at 1,800°F with thermal cycling fragility
@@ -454,7 +452,7 @@ BRIDGE: "Horizon offers next-generation PEM technology:
 - Include "Why PEM is Superior to SOFC" technical explainer
 - Customer testimonials emphasizing deployment speed and reliability
 
-#### Objection 2: "We already have natural gas infrastructure—Bloom can use it"
+#### Objection 2: "We already have natural gas infrastructure—SOFC can use it"
 
 **Updated Response (NOW STRONGER with SMR):**
 ```
@@ -462,9 +460,9 @@ ACKNOWLEDGE: "Natural gas infrastructure is valuable—we can use it too."
 
 DIFFERENTIATE: "Horizon offers integrated SMR solutions:
 - Convert natural gas to hydrogen on-site (100,000+ Nm³/h)
-- 60-70% emissions reduction vs. diesel (better than Bloom NG)
+- 60-70% emissions reduction vs. diesel (better than SOFC NG)
 - Clear upgrade path to pure green hydrogen
-- 75-80% efficiency with CHP vs. Bloom's standalone operation"
+- 75-80% efficiency with CHP vs. SOFC's standalone operation"
 
 BRIDGE: "Choose your pathway:
 - Start with SMR today (4-6 month deployment)
@@ -477,7 +475,7 @@ BRIDGE: "Choose your pathway:
 - Create "Transition Pathway Calculator": Input NG availability → Recommend Pure H2 or SMR
 - Case study: SMR deployment timeline and emissions reduction
 
-#### Objection 3: "Bloom has lower upfront cost" (if true)
+#### Objection 3: "SOFC has lower upfront cost" (if true)
 
 **Updated Response:**
 ```
@@ -494,11 +492,11 @@ BRIDGE: "Over 20 years, Horizon is 25-35% lower total cost. Would you like to se
 ```
 
 **Website Implementation:**
-- Enhance ROI calculator to show 20-year comparison
+- Enhance cost calculator to show 20-year comparison
 - Add "Hidden Costs of High-Temperature Fuel Cells" infographic
 - "TCO Analysis" whitepaper download
 
-#### Objection 4: "Bloom has California utility incentives"
+#### Objection 4: "SOFC has California utility incentives"
 
 **Updated Response:**
 ```
@@ -527,7 +525,7 @@ BRIDGE: "Plus, our pure hydrogen approach qualifies for more aggressive ESG-link
 TECHNICALLY TRUE: "SOFC electrical efficiency can reach 60% (same as PEM)."
 
 CONTEXTUAL REALITY: "But efficiency isn't just electrical:
-- Bloom's 90% CHP efficiency requires external heat source
+- SOFC's 90% CHP efficiency requires external heat source
 - Thermal losses during start-up/shutdown cycles
 - Maintenance downtime reduces effective efficiency
 - 10-year lifespan = more replacement embodied energy"
@@ -554,12 +552,12 @@ HORIZON ADVANTAGE: "PEM provides:
 
 1. **Update Core Messaging Everywhere:**
    - Replace "90 days" → "4 months" (or "as low as 4 months")
-   - Add "vs. 6-12 months (Bloom), 18-48 months (grid)" context
+   - Add "vs. 12-24 months (SOFC), 18-48 months (grid)" context
    - Update "99.999%" → "99.99% (four nines) with N+1 redundancy"
 
 2. **Add Competitor Context:**
    - Homepage hero: Add "vs. competitors" subtext
-   - Timeline comparisons: Include Bloom Energy row
+   - Timeline comparisons: Include SOFC row
    - Technical specs: Add competitive benchmarks
 
 3. **Fix Inconsistencies:**
@@ -570,7 +568,7 @@ HORIZON ADVANTAGE: "PEM provides:
 **Files to Update:**
 - `/components/home/ValueProposition.tsx` (line 30-31: "90-Day" → "4-Month")
 - `/components/home/IndustryChallenges.tsx` (add competitive context)
-- `/app/why/time-to-market/components/TimelineComparison.tsx` (add Bloom row)
+- `/app/why/time-to-market/components/TimelineComparison.tsx` (add SOFC row)
 - `/app/why/reliability/page.tsx` (align to four nines, add competitive comparison)
 
 ### Phase 2: New Content (Week 3-4)
@@ -598,16 +596,15 @@ HORIZON ADVANTAGE: "PEM provides:
    - Field serviceability advantages
 
 **Component Development:**
-- `CompetitiveComparisonTable.tsx` - Enhanced table with Bloom, SMR, Nuclear columns
+- `CompetitiveComparisonTable.tsx` - Enhanced table with SOFC, SMR, Nuclear columns
 - `TechnologyDeepDive.tsx` - Interactive PEM vs. SOFC explainer
 - `TCOAnalysis.tsx` - 20-year cost comparison calculator
 - `SolutionPathwaySelector.tsx` - Interactive "Choose Your Pathway" tool (Pure H2 vs. SMR)
 
 ### Phase 3: Enhanced Tools (Week 5-6)
 
-#### ROI Calculator Updates:
+#### Cost Calculator Updates:
 
-**Add to `/app/calculators/roi/utils/calculations.ts`:**
 ```typescript
 // New calculation: Equipment replacement costs
 function calculateReplacementCosts(years: number) {
@@ -630,7 +627,7 @@ function generateCompetitiveTCO() {
 
 **New Tool: `/calculators/competitive-comparison`**
 - Input: Power requirement, location, timeline urgency, sustainability priority
-- Output: Side-by-side comparison (Horizon vs. Bloom vs. Grid)
+- Output: Side-by-side comparison (Horizon vs. SOFC vs. Grid)
 - Includes: Deployment timeline, TCO, emissions, reliability
 - CTA: "Request Custom Analysis" with lead capture
 
@@ -644,8 +641,8 @@ function generateCompetitiveTCO() {
    - Competitive context: "Grid would have taken 32 months"
    - ROI: $X million in earlier revenue
 
-2. **Bloom Displacement Case Study**
-   - Customer: [Name] evaluated Bloom, chose Horizon
+2. **SOFC Displacement Case Study**
+   - Customer: [Name] evaluated SOFC, chose Horizon
    - Decision factors: Pure hydrogen, faster deployment, better TCO
    - Results: Zero emissions, 99.99% uptime, lower maintenance costs
 
@@ -663,7 +660,7 @@ function generateCompetitiveTCO() {
 
 #### Whitepapers:
 
-1. "Competitive Analysis: Horizon vs. Bloom Energy for Data Center Applications"
+1. "Competitive Analysis: Horizon vs. SOFC for Data Center Applications"
 2. "20-Year Total Cost of Ownership: A Framework for Fuel Cell Evaluation"
 3. "Natural Gas to Green Hydrogen: The SMR Bridge Strategy"
 
@@ -677,8 +674,8 @@ function generateCompetitiveTCO() {
 "Horizon delivers zero on-site emission fuel cell solutions for data centers,
 eliminating the 18-48 month grid connection bottleneck.
 
-Our pure hydrogen PEM fuel cells deploy in as low as 4 months—faster than
-Bloom Energy's 6-12 month SOFC systems—with 99.99% uptime and N+1 redundancy.
+Our pure hydrogen PEM fuel cells deployment start as low as 4 months—faster than
+SOFC's 6-12 month SOFC systems—with 99.99% uptime and N+1 redundancy.
 
 Unlike natural gas fuel cells that produce CO₂, our systems produce only
 electricity and water. For markets with natural gas infrastructure, we offer
@@ -694,12 +691,12 @@ Horizon is the next-generation alternative to legacy fuel cell technology."
 
 | Dimension | Horizon Position | Competitive Differentiation |
 |-----------|------------------|----------------------------|
-| **Speed** | 4-month deployment | vs. 6-12 months (Bloom), 18-48 months (grid) |
+| **Speed** | 4-month deployment | vs. 12-24 months (SOFC), 18-48 months (grid) |
 | **Reliability** | 99.99% (four nines) with N+1 | vs. 99.9% (three nines) without redundancy |
-| **Environment** | Zero on-site emissions (pure H2) OR 60-70% reduction (SMR) | vs. CO₂ emissions (Bloom NG), vs. high emissions (diesel) |
+| **Environment** | Zero on-site emissions (pure H2) OR 60-70% reduction (SMR) | vs. CO₂ emissions (SOFC NG), vs. high emissions (diesel) |
 | **Economics** | 25-35% lower TCO, 20-year lifespan | vs. 10-year replacement, higher maintenance |
 | **Technology** | PEM 60-80°C, minutes startup, 90K+ hours | vs. SOFC 800-1000°C, hours startup, thermal fragility |
-| **Flexibility** | Pure H2 OR SMR pathway | vs. natural gas only (Bloom), vs. diesel only (traditional) |
+| **Flexibility** | Pure H2 OR SMR pathway | vs. natural gas only (SOFC), vs. diesel only (traditional) |
 
 ### 8.3 Competitive Messaging by Audience
 
@@ -742,7 +739,7 @@ PROOF: "Deployed systems in [regions], proven timeline, customer testimonials"
 1. **More Realistic Timeline Messaging**:
    - "4 months" is more credible than "90 days" for primary systems
    - Maintains "90 days" for modular expansions/best-case
-   - Adds reality check on Bloom's claims (Equinix: 10 years to scale)
+   - Adds reality check on SOFC's claims (Equinix: 10 years to scale)
 
 2. **Stronger Technical Differentiation**:
    - PEM vs. SOFC comparison is now front and center
@@ -755,7 +752,7 @@ PROOF: "Deployed systems in [regions], proven timeline, customer testimonials"
    - Clear articulation of emissions reduction by pathway (0g vs. 60-70%)
 
 4. **Explicit Competitive Positioning**:
-   - Name Bloom Energy directly (stop being implicit)
+   - Name SOFC directly (stop being implicit)
    - Provide specific technical comparisons (temperature, lifespan, startup)
    - Include "when to choose each" honesty (builds credibility)
 
@@ -768,7 +765,7 @@ PROOF: "Deployed systems in [regions], proven timeline, customer testimonials"
 
 **Critical Missing Elements:**
 
-1. ❌ No mention of Bloom Energy anywhere on website
+1. ❌ No mention of SOFC anywhere on website
 2. ❌ No SMR/natural gas solution pathway described
 3. ❌ No PEM vs. SOFC technology comparison
 4. ❌ No 20-year TCO analysis (vs. 10-year replacement cycles)
@@ -781,7 +778,7 @@ PROOF: "Deployed systems in [regions], proven timeline, customer testimonials"
 1. ✅ Create `/why/vs-bloom-energy` competitive comparison page
 2. ✅ Add "Natural Gas Solutions" (SMR) to product portfolio
 3. ✅ Update all "90 days" to "4 months" with context
-4. ✅ Add Bloom Energy row to timeline comparison tables
+4. ✅ Add SOFC row to timeline comparison tables
 5. ✅ Create "Technology Deep Dive" (PEM vs. SOFC) explainer
 6. ✅ Build "20-Year TCO Calculator" showing replacement costs
 7. ✅ Develop "Solution Pathway Selector" (Pure H2 vs. SMR tool)
@@ -792,13 +789,13 @@ PROOF: "Deployed systems in [regions], proven timeline, customer testimonials"
 1. [ ] Update all "90 days" → "4 months" or "as low as 4 months"
 2. [ ] Fix reliability claims: Standardize to "99.99% (four nines) with N+1"
 3. [ ] Add "vs. competitors" context to homepage value props
-4. [ ] Update timeline comparison to include Bloom Energy row
+4. [ ] Update timeline comparison to include SOFC row
 
 #### Week 2: Competitive Context
-5. [ ] Add Bloom Energy column to all comparison tables
-6. [ ] Create "vs. Bloom Energy" section on Why pages
+5. [ ] Add SOFC column to all comparison tables
+6. [ ] Create "vs. SOFC" section on Why pages
 7. [ ] Add competitive benchmarks to technical specifications
-8. [ ] Update ROI calculator to include 20-year replacement costs
+8. [ ] Update cost calculator to include 20-year replacement costs
 
 #### Week 3-4: New Content
 9. [ ] Create `/why/vs-bloom-energy` comprehensive comparison page
@@ -808,22 +805,22 @@ PROOF: "Deployed systems in [regions], proven timeline, customer testimonials"
 
 #### Week 5-6: Tools & Proof
 13. [ ] Build "Solution Pathway Selector" tool (Pure H2 vs. SMR)
-14. [ ] Enhance ROI calculator with competitive TCO comparison
+14. [ ] Enhance cost calculator with competitive TCO comparison
 15. [ ] Create "Competitive Comparison" calculator tool
-16. [ ] Develop case studies: Speed advantage, Bloom displacement, SMR integration
+16. [ ] Develop case studies: Speed advantage, SOFC displacement, SMR integration
 
 ### 9.4 Success Metrics
 
 **How to measure effectiveness of competitive positioning updates:**
 
 1. **Website Engagement**:
-   - Time on "vs. Bloom Energy" page (target: >3 min average)
+   - Time on "vs. SOFC" page (target: >3 min average)
    - Competitive comparison tool usage (target: 15% of site visitors)
    - Bounce rate on competitive pages (target: <40%)
 
 2. **Lead Quality**:
-   - % of leads mentioning Bloom as alternative (track in CRM)
-   - Win rate when competing against Bloom (target: 60%+)
+   - % of leads mentioning SOFC as alternative (track in CRM)
+   - Win rate when competing against SOFC (target: 60%+)
    - Sales cycle length for competitive deals (target: <12 months)
 
 3. **Content Performance**:
@@ -832,7 +829,7 @@ PROOF: "Deployed systems in [regions], proven timeline, customer testimonials"
    - Social shares of competitive messaging content
 
 4. **SEO Performance**:
-   - Rankings for "Bloom Energy alternative"
+   - Rankings for "SOFC alternative"
    - Rankings for "PEM vs SOFC data center"
    - Rankings for "hydrogen fuel cell data center comparison"
 
@@ -845,10 +842,10 @@ PROOF: "Deployed systems in [regions], proven timeline, customer testimonials"
 
 ## Conclusion
 
-The updated strategy documents provide a significantly more sophisticated and defensible competitive positioning against Bloom Energy. The key evolution is from **implicit differentiation** (we're better, but not saying why vs. whom) to **explicit competitive advantage** (here's exactly why PEM beats SOFC, and here's the proof).
+The updated strategy documents provide a significantly more sophisticated and defensible competitive positioning against SOFC. The key evolution is from **implicit differentiation** (we're better, but not saying why vs. whom) to **explicit competitive advantage** (here's exactly why PEM beats SOFC, and here's the proof).
 
 **The updated strategy's core competitive thesis:**
-> "Horizon offers next-generation PEM technology with pure hydrogen capability, faster deployment, longer lifespan, and honest emissions positioning—versus Bloom's legacy high-temperature SOFC natural gas systems with 'hydrogen-ready' marketing."
+> "Horizon offers next-generation PEM technology with pure hydrogen capability, faster deployment, longer lifespan, and honest emissions positioning—versus SOFC's legacy high-temperature SOFC natural gas systems with 'hydrogen-ready' marketing."
 
 **The website must evolve to reflect this more aggressive, evidence-based competitive positioning while maintaining credibility through honest assessment of trade-offs and appropriate use cases for each technology.**
 
@@ -863,4 +860,4 @@ The updated strategy documents provide a significantly more sophisticated and de
 
 ---
 
-*This analysis synthesizes insights from the Executive Strategy, Bloom Energy Competitive Analysis, and Data Center Market Research documents (both existing and updated versions) to identify competitive positioning evolution and website implementation requirements.*
+*This analysis synthesizes insights from the Executive Strategy, SOFC Competitive Analysis, and Data Center Market Research documents (both existing and updated versions) to identify competitive positioning evolution and website implementation requirements.*

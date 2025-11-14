@@ -6,7 +6,7 @@ Executive Summary
 
 Horizon Fuel Cell North America delivers zero on-site emission fuel cell
 solutions for data centers, eliminating the 18-48 month grid connection
-bottleneck. Our purpose-built systems deploy in as low as 4 months with
+bottleneck. Our purpose-built systems have deployment start as low as 4 months with
 99.99% (four nines) uptime and N+1 redundancy, providing reliable, clean
 energy for mission-critical infrastructure.
 
@@ -36,7 +36,7 @@ Purpose-Built for Modern Data Centers
 
 Rapid Time to Market
 
-Pre-engineered systems ship and install in as low as 4 months. Eliminate
+Pre-engineered systems ship and install with deployment start as low as 4 months. Eliminate
 18-48 month grid delays and start generating revenue immediately.
 
 - Plug-and-play design for fast deployment
@@ -66,12 +66,10 @@ operations.
 
 - Silent operation
 
-- EPA compliant
-
 Lower Total Cost of Ownership
 
 25-35% lower total cost versus diesel+grid. Predictable energy costs
-with no peak demand charges.
+with no peak demand charges. At scale, the cost to operate is almost similar to the lower-end cost of the grid, targeting sub 10 cents per kWh.
 
 - No demand charges
 
@@ -86,7 +84,9 @@ Pure Hydrogen Solutions
 Our core offering provides clean, reliable power through pure hydrogen
 fuel cells:
 
-- Containerized systems from 200kW to multi-MW configurations
+- Containerized systems: 1.5MW continuous power, 3MW peak power
+
+- Modular scaling from 1.5MW to multi-GW
 
 - Grid-independent baseload and backup power
 
@@ -103,45 +103,39 @@ fuel cell technology.
 
 Integrated SMR-Fuel Cell System
 
-Our SMR integration provides a complete natural gas-to-electricity
-solution with significantly reduced on-site emissions compared to
+Our SMR integration (3TPD hydrogen production for 2MW power output) provides a complete natural gas-to-electricity
+solution for areas where hydrogen is not widely available and natural gas is, with significantly reduced on-site emissions compared to
 traditional generators:
 
 **System Architecture:**
 
-- On-site Steam Methane Reformer converts natural gas to high-purity
-  hydrogen (99.5%+)
+- On-site Steam Methane Reformer converts natural gas to high-purity hydrogen
 
-- Integrated fuel cell stack converts hydrogen to electricity with
-  50-60% electrical efficiency
-
-- Heat recovery systems capture waste heat for reforming process
+- Integrated fuel cell stack converts hydrogen to electricity
 
 - Optional carbon capture units for further emissions reduction
 
-**Key Benefits:**
+**Key Benefits - In hydrogen rich locations:**
+
+- Leverage hydrogen where available
+
+- Easy implementation
+
+- Water positive setup
+
+- Cost effective
+
+**Key Benefits - Where H2 is not widely available and SMR is integrated:**
 
 - Leverage existing natural gas infrastructure
 
-- 60-70% reduction in on-site emissions vs diesel generators
+- Bridge to pure hydrogen
 
 - No dependence on external hydrogen supply chain
 
-- Pathway to 100% clean hydrogen through renewable natural gas
+**Deployment timeline:**
 
-- Combined heat and power (CHP) capability for enhanced efficiency
-
-**Technical Specifications:**
-
-- Hydrogen production: 100,000+ Nm³/h capability
-
-- Operating temperature: 800-900°C reforming temperature
-
-- Steam-to-carbon ratio: 2.5:1 to 3:1
-
-- Overall system efficiency: 75-80% (with CHP)
-
-- Deployment timeline: 4-6 months
+- Deployment start as low as 4-6 months
 
 This integrated solution is ideal for data centers in regions with
 robust natural gas infrastructure, providing a practical bridge to pure
@@ -155,7 +149,8 @@ Traditional Grid + Diesel vs Horizon
   -----------------------------------------------------------------------
   **Factor**              **Traditional**         **Horizon**
   ----------------------- ----------------------- -----------------------
-  **Time to Market**      18-48 months            4 months
+  **Time to Market**      18-48 months            Deployment start as
+                                                  low as 4 months
 
   **Reliability**         99.9% (three nines)     99.99% (four nines)
                                                   with N+1
@@ -167,16 +162,16 @@ Traditional Grid + Diesel vs Horizon
 
 Go-to-Market Strategy
 
-Our strategy focuses on high-growth data center operators facing
+Our strategy focuses on high-growth operators facing
 immediate power capacity constraints:
+
+- Utility providers and local governments
 
 - Hyperscale operators expanding AI infrastructure
 
 - Colocation providers in grid-constrained markets
 
 - Edge computing facilities requiring reliable distributed power
-
-- Enterprise data centers with sustainability commitments
 
 Contact Information
 

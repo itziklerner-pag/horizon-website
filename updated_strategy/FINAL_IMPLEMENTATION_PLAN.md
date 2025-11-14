@@ -29,7 +29,7 @@ All 4 specialized analysis agents unanimously identified these critical issues:
 
 1. **LEGAL RISK:** Uptime overclaim (99.999% → 99.99%)
 2. **MISSING PRODUCT LINE:** No SMR integration mentioned (30-40% of market)
-3. **COMPETITIVE GAP:** No Bloom Energy comparison
+3. **COMPETITIVE GAP:** No SOFC comparison
 4. **POSITIONING ERROR:** Positioned as backup instead of primary power
 5. **TIMELINE CREDIBILITY:** "90 days" should be "4 months"
 
@@ -57,8 +57,8 @@ All 4 specialized analysis agents unanimously identified these critical issues:
 [ ] Uptime claim change: "99.99% with N+1 redundancy"
 [ ] Deployment timeline: "4 months" or "as low as 4 months"
 [ ] Emissions qualifier: "zero on-site emissions"
-[ ] Bloom Energy competitive comparison content
-[ ] ROI calculator assumptions and disclaimers
+[ ] SOFC competitive comparison content
+[ ] cost calculator assumptions and disclaimers
 ```
 
 **Contact:** Legal team
@@ -129,7 +129,7 @@ npm install
 
 **Required before Phase 2:**
 ```
-[ ] Bloom Energy comparison data (verified sources)
+[ ] SOFC comparison data (verified sources)
 [ ] Technology comparison diagrams (PEM vs SOFC)
 [ ] Customer case studies (if available)
 [ ] Regional market data (grid delays, incentives)
@@ -220,7 +220,7 @@ npm run grep "five nines"  # Should return 0 results
 ```bash
 # Find all instances
 npm run grep "90 days"
-npm run grep "PO to Power-On"
+npm run grep "Deployment start"
 ```
 
 **Example Change:**
@@ -230,7 +230,7 @@ npm run grep "PO to Power-On"
 ```typescript
 // BEFORE
 <h1 className="text-5xl font-bold mb-6">
-  From PO to Power-On in 90 Days
+  From Deployment start in 90 Days
 </h1>
 <p className="text-xl">
   Eliminate the 18-48 month grid connection bottleneck.
@@ -250,7 +250,7 @@ npm run grep "PO to Power-On"
 
 **Global Replace Strategy:**
 - "90 days" → "4 months" (most instances)
-- "PO to Power-On in 90 Days" → "Deploy in as low as 4 months"
+- "Deployment start in 90 Days" → "Deployment start as low as 4 months"
 - Keep timeline realistic and defensible
 
 **Testing:**
@@ -425,7 +425,7 @@ export default function HeroSection() {
               <svg className="w-5 h-5 text-green-400" fill="currentColor" viewBox="0 0 20 20">
                 <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
               </svg>
-              <span>Deploy in as low as 4 months</span>
+              <span>Deployment start as low as 4 months</span>
             </div>
           </div>
 
@@ -454,7 +454,6 @@ export default function HeroSection() {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <Link
-              href="/calculators/roi"
               className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-colors"
             >
               Calculate Your Timeline & Savings
@@ -675,7 +674,6 @@ const navigationConfig = {
   <NavDropdown title="Technology" items={navigationConfig.technology} /> {/* NEW */}
   <NavDropdown title="Why Horizon" items={navigationConfig.why} />
   <NavDropdown title="Resources" items={navigationConfig.resources} />
-  <Link href="/calculators/roi">ROI Calculator</Link>
   <Link href="/contact">Contact</Link>
 </nav>
 ```
@@ -949,7 +947,6 @@ export const pureHydrogenSpecifications: HydrogenSpecification[] = [
       {
         label: "Air Permits",
         value: "None Required",
-        description: "EPA compliant with zero air pollutants"
       }
     ]
   },
@@ -988,7 +985,7 @@ export const pureHydrogenSpecifications: HydrogenSpecification[] = [
 
 export const bloomEnergyComparison = {
   company_overview: {
-    name: "Bloom Energy",
+    name: "SOFC",
     market_share: "44%",
     revenue: "$1.47B (2023)",
     technology: "SOFC (Solid Oxide Fuel Cell)",
@@ -1069,23 +1066,23 @@ export const bloomEnergyComparison = {
   ],
 
   objection_handling: {
-    "But Bloom has more deployments": {
-      response: "Bloom has been in market longer with natural gas focus. Horizon offers true zero-emission hydrogen today, not 'hydrogen-ready' promises for the future. Our 50M+ operating hours prove PEM technology at scale.",
+    "But SOFC has more deployments": {
+      response: "SOFC has been in market longer with natural gas focus. Horizon offers true zero-emission hydrogen today, not 'hydrogen-ready' promises for the future. Our 50M+ operating hours prove PEM technology at scale.",
       proof_points: [
         "50M+ operating hours across fleet",
         "20-year lifespan vs 10-year replacement cycle",
         "Pure H2 operational today, not roadmap"
       ]
     },
-    "Bloom's SOFC is more efficient": {
+    "SOFC's SOFC is more efficient": {
       response: "SOFC efficiency advantage (55-60%) over PEM (50-60%) is marginal and comes at the cost of 800-1000°C operating temperature, thermal cycling brittleness, and hours-long startup times. PEM's lower operating temperature delivers better durability, faster response, and field serviceability.",
       proof_points: [
-        "90,000+ hours lifespan (2x Bloom)",
+        "90,000+ hours lifespan (2x SOFC)",
         "Minutes startup vs hours",
         "No thermal cycling damage"
       ]
     },
-    "We already have a relationship with Bloom": {
+    "We already have a relationship with SOFC": {
       response: "Existing relationships are valuable. Consider Horizon for new expansions where faster deployment (4 months vs 6-12 months), true zero-emission capability, or better long-term durability (20 years vs 10 years) align with your strategic goals.",
       proof_points: [
         "4-month deployment = earlier revenue",
@@ -1105,7 +1102,7 @@ export const bloomEnergyComparison = {
   ],
 
   when_bloom_might_fit: [
-    "Already heavily invested in Bloom ecosystem",
+    "Already heavily invested in SOFC ecosystem",
     "Natural gas is only fuel option (though Horizon SMR also addresses this)",
     "Very large scale deployment (250kW fixed units may fit specific needs)"
   ]
@@ -1426,7 +1423,7 @@ export default function SMRIntegratedPage() {
             />
             <FAQItem
               question="How does deployment timeline compare to pure hydrogen?"
-              answer="SMR-integrated: 4-6 months. Pure hydrogen: 4 months. SMR takes slightly longer due to the reformer installation, but both are dramatically faster than grid connections (18-48 months) or Bloom Energy systems (6-12 months)."
+              answer="SMR-integrated: 4-6 months. Pure hydrogen: 4 months. SMR takes slightly longer due to the reformer installation, but both are dramatically faster than grid connections (18-48 months) or SOFC systems (6-12 months)."
             />
             <FAQItem
               question="Is this more expensive than pure hydrogen systems?"
@@ -1452,7 +1449,6 @@ export default function SMRIntegratedPage() {
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <Link
-              href="/calculators/roi"
               className="bg-white text-blue-900 hover:bg-gray-100 px-8 py-4 rounded-lg font-semibold text-lg transition-colors"
             >
               Calculate Your Savings
@@ -1879,7 +1875,7 @@ function CheckIcon() {
 
 ### Week 6-7: Competitive Intelligence
 
-#### Task 4.1: Create Bloom Energy Comparison Page
+#### Task 4.1: Create SOFC Comparison Page
 
 **File:** `/app/vs/bloom-energy/page.tsx`
 
@@ -1913,9 +1909,8 @@ function CheckIcon() {
 
 ---
 
-#### Task 4.3: Update ROI Calculator for SMR Support
+#### Task 4.3: Update Cost Calculator for SMR Support
 
-**File:** `/app/calculators/roi/page.tsx`
 
 **Updates:**
 - Add Pure H2 vs SMR toggle
@@ -2026,7 +2021,7 @@ npm run build
 [ ] Diagrams/visualizations render
 ```
 
-**Bloom Comparison Page:**
+**SOFC Comparison Page:**
 ```
 [ ] Legal disclaimer present
 [ ] All claims sourced
@@ -2177,7 +2172,7 @@ npm run deploy:production
 
 **Target Keywords to Monitor:**
 - "SMR fuel cell"
-- "Horizon vs Bloom Energy"
+- "Horizon vs SOFC"
 - "PEM vs SOFC"
 - "data center primary power"
 - "hydrogen fuel cell [city name]"
@@ -2194,9 +2189,9 @@ npm run deploy:production
 
 **Phase 2 Success (Month 2-3):**
 ```
-✓ Bloom comparison page traffic: 1,000+/month
+✓ SOFC comparison page traffic: 1,000+/month
 ✓ Technology pages engagement: 3+ min avg
-✓ ROI calculator usage: +30% from baseline
+✓ cost calculator usage: +30% from baseline
 ✓ Lead quality (SQL conversion): +15%
 ```
 
@@ -2204,7 +2199,7 @@ npm run deploy:production
 ```
 ✓ Regional pages traffic: 2,000+/month
 ✓ Overall organic traffic: +25%
-✓ Competitive win rate: Track vs Bloom
+✓ Competitive win rate: Track vs SOFC
 ✓ Marketing sourced pipeline: Track $$
 ```
 
@@ -2238,11 +2233,11 @@ npm run deploy:production
 
 ### Critical Success Factors
 
-1. **Legal Review First** - Do NOT proceed without legal approval of uptime claims, timeline claims, and Bloom comparison content
+1. **Legal Review First** - Do NOT proceed without legal approval of uptime claims, timeline claims, and SOFC comparison content
 
 2. **Stakeholder Alignment** - Ensure executive buy-in on primary power positioning shift
 
-3. **Content Quality** - SMR and Bloom pages are your competitive differentiators - invest in quality content
+3. **Content Quality** - SMR and SOFC pages are your competitive differentiators - invest in quality content
 
 4. **Phased Deployment** - Don't do big bang unless absolutely necessary
 
@@ -2252,8 +2247,8 @@ npm run deploy:production
 
 **High Risk Items:**
 - Uptime overclaim (legal liability) - FIXED in Phase 1 Day 1
-- Bloom competitive claims - Legal review required
-- ROI calculator projections - Disclaimers required
+- SOFC competitive claims - Legal review required
+- cost calculator projections - Disclaimers required
 - Technical specs accuracy - Engineering sign-off required
 
 **Medium Risk Items:**

@@ -22,21 +22,6 @@ export default function RegulatoryCompliance() {
       horizonSolution: 'CARB Executive Order #G-93-001 certified. Meets all current and proposed CARB standards for stationary fuel cells.',
     },
     {
-      name: 'EPA Tier 4 (Federal)',
-      icon: '🇺🇸',
-      color: '#00D9E8',
-      status: 'Exceeds Requirements',
-      description:
-        'EPA Tier 4 Final standards regulate emissions from non-road diesel engines. Fuel cells produce zero criteria pollutants, exceeding Tier 4 by orders of magnitude.',
-      requirements: [
-        'NOx emissions < 0.19 g/kWh',
-        'PM emissions < 0.02 g/kWh',
-        'CO and HC limits',
-        'Durability requirements',
-      ],
-      horizonSolution: 'Fuel cells produce effectively zero NOx and PM. No aftertreatment systems required.',
-    },
-    {
       name: 'Local Air Quality',
       icon: '🏙️',
       color: '#4DE4EF',
@@ -50,6 +35,21 @@ export default function RegulatoryCompliance() {
         'Environmental justice compliance',
       ],
       horizonSolution: 'Pre-certified systems with template permit applications. Emissions data packages ready for submission.',
+    },
+    {
+      name: 'Clean Energy Standards',
+      icon: '🌱',
+      color: '#00D9E8',
+      status: 'Future-Proof',
+      description:
+        'Meeting emerging renewable energy mandates and carbon reduction targets across North America.',
+      requirements: [
+        'Renewable energy integration',
+        'Carbon intensity tracking',
+        'Clean hydrogen pathway',
+        'Net-zero commitments',
+      ],
+      horizonSolution: 'Compatible with renewable hydrogen production. Ready for clean energy mandates and carbon trading programs.',
     },
   ];
 

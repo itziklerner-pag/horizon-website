@@ -55,10 +55,10 @@ export function FinalCTA() {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16">
             <Link
-              href="/calculators/roi"
+              href="/contact"
               className="group px-8 py-5 bg-[#00D9E8] text-[#1A2332] text-lg font-bold rounded-lg hover:bg-[#00B8C5] transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-cyan-500/50 min-w-[240px]"
             >
-              Power Your Facility
+              Get Started Today
               <svg
                 className="inline-block w-5 h-5 ml-2 group-hover:translate-x-2 transition-transform duration-300"
                 fill="none"
@@ -138,7 +138,7 @@ export function FinalCTA() {
                 <li><Link href="/resources/case-studies" className="hover:text-[#00D9E8] transition-colors">Case Studies</Link></li>
                 <li><Link href="/resources/whitepapers" className="hover:text-[#00D9E8] transition-colors">White Papers</Link></li>
                 <li><Link href="/resources" className="hover:text-[#00D9E8] transition-colors">Documentation</Link></li>
-                <li><Link href="/calculators/roi" className="hover:text-[#00D9E8] transition-colors">ROI Calculator</Link></li>
+                <li><Link href="/resources/videos" className="hover:text-[#00D9E8] transition-colors">Videos</Link></li>
               </ul>
             </div>
 

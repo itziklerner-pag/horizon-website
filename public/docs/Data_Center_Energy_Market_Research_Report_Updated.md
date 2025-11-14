@@ -144,7 +144,7 @@ AI workloads are driving unprecedented power density requirements:
 
 - Traditional racks: 5-8kW per rack
 
-- AI/ML racks: 30-100kW per rack
+- AI/ML racks: 30-1.5MW continuous power, 3MW peak power per rack
 
 - Liquid cooling adoption accelerating
 

@@ -1,75 +1,78 @@
 **Competitive Analysis**
 
-Horizon Fuel Cell vs Bloom Energy
+Horizon Fuel Cell vs SOFC Solutions
 
 Data Center Power Solutions
 
 Executive Summary
 
-This analysis compares Horizon Fuel Cell and Bloom Energy fuel cell
-solutions for data center applications. While both companies offer fuel
-cell technology, Horizon\'s pure hydrogen approach delivers zero on-site
-emissions, 99.99% uptime with N+1 redundancy, and deployment in as low
-as 4 months, positioning us favorably against Bloom\'s solid oxide fuel
-cell (SOFC) natural gas platform.
+This analysis compares Horizon Fuel Cell and SOFC (Solid Oxide Fuel Cell) solutions for data center applications. While both technologies offer fuel
+cell power, Horizon's pure hydrogen approach delivers zero on-site
+emissions, 99.99% uptime with N+1 redundancy, and deployment start as low
+as 4 months, positioning us favorably against SOFC natural gas platforms.
 
 Company Overviews
 
 Horizon Fuel Cell
 
 Horizon is a global leader in PEM (Proton Exchange Membrane) fuel cell
-technology with over two decades of experience. Our data center
+technology with over two decades of experience, and hundreds of MW deployed across various regions such as South Korea, China and Australia. Our data center
 solutions focus on:
 
 - Pure hydrogen PEM fuel cells for zero on-site emissions
 
 - 99.99% uptime (four nines) with N+1 redundancy
 
-- 4-month deployment timeline
+- Deployment start as low as 4 months
 
-- Modular, scalable systems from 200kW to multi-MW
+- Modular, scalable systems from 1.5MW to multi-GW
 
-- Optional SMR integration for natural gas markets
+- Optional SMR integration (3TPD hydrogen production for 2MW power output) for areas where hydrogen is not widely available and natural gas is
 
-Bloom Energy
+SOFC Solutions
 
-Bloom Energy is an established fuel cell provider focused on natural
-gas-powered Solid Oxide Fuel Cell (SOFC) technology. Key
+SOFC (Solid Oxide Fuel Cell) providers are established in natural
+gas-powered fuel cell technology. Key
 characteristics:
 
 - Primary fuel: Natural gas
 
 - High-temperature SOFC technology
 
-- 250kW Energy Server units
+- 325kW Energy Server units
 
-- Established customer base in California
+- Fixed 325kW unit size
+
+- 12-24 month deployment timeline
 
 - Recent hydrogen demonstrations
 
 Technology Comparison
 
   -----------------------------------------------------------------------
-  **Feature**             **Horizon**             **Bloom Energy**
+  **Feature**             **Horizon**             **SOFC**
   ----------------------- ----------------------- -----------------------
   **Fuel Cell Type**      PEM (Proton Exchange    SOFC (Solid Oxide)
-                          Membrane)               
+                          Membrane)
 
   **Primary Fuel**        Pure Hydrogen (with SMR Natural Gas
-                          option)                 
+                          option)
 
   **On-Site Emissions**   Zero (pure H2)          CO2 emissions
 
   **Operating Temp**      60-80°C                 800-1000°C
 
+  **Power Density**       1-10x better than SOFC  Lower
+
   **Start-up Time**       Minutes                 Hours
 
   **Uptime**              99.99% (four nines)     99.9% (three nines)
-                          with N+1                
+                          with N+1
 
-  **Deployment Time**     4 months                6-12 months
+  **Deployment Time**     Deployment start as     12-24 months
+                          low as 4 months
 
-  **Scalability**         Modular (200kW-MW+)     250kW units
+  **Scalability**         Modular (1.5MW-multi-GW) Fixed 325kW units
   -----------------------------------------------------------------------
 
 Detailed Comparison
@@ -88,7 +91,7 @@ Environmental Performance
 
 - Only byproduct: water vapor
 
-**Bloom Energy:**
+**SOFC:**
 
 - CO2 emissions from natural gas combustion
 
@@ -112,7 +115,7 @@ Reliability and Redundancy
 
 - 24/7 remote monitoring
 
-**Bloom Energy:**
+**SOFC:**
 
 - 99.9% (three nines) typical uptime
 
@@ -126,21 +129,21 @@ Deployment and Scalability
 
 **Horizon:**
 
-- 4-month deployment timeline
+- Deployment start as low as 4 months
 
-- Containerized plug-and-play systems
+- Containerized systems: 1.5MW continuous power, 3MW peak power
 
-- Modular scaling (200kW to multi-MW)
+- Modular scaling from 1.5MW to multi-GW
 
 - Pre-certified systems
 
 - Grid-independent operation
 
-**Bloom Energy:**
+**SOFC:**
 
-- 6-12 month deployment timeline
+- 12-24 month deployment timeline
 
-- Fixed 250kW unit size
+- Fixed 325kW unit size
 
 - Requires natural gas infrastructure
 
@@ -149,7 +152,7 @@ Deployment and Scalability
 Total Cost of Ownership
 
 While both technologies offer advantages over traditional diesel+grid
-approaches, Horizon\'s TCO benefits include:
+approaches, Horizon offers 25-35% lower TCO:
 
 Horizon Advantages
 
@@ -163,9 +166,11 @@ Horizon Advantages
 
 - 20-year system lifespan
 
+- At scale, the cost to operate is almost similar to the lower-end cost of the grid, targeting sub 10 cents per kWh
+
 - Federal and state tax incentives for hydrogen
 
-Bloom Energy Considerations
+SOFC Considerations
 
 - Natural gas price volatility exposure
 
@@ -181,7 +186,7 @@ When Horizon is the Best Choice
 
 - Zero on-site emissions requirement (corporate sustainability goals)
 
-- Rapid deployment needed (4 months vs 6-12 months)
+- Rapid deployment needed (deployment start as low as 4 months vs 12-24 months)
 
 - Grid-constrained locations
 
@@ -191,41 +196,38 @@ When Horizon is the Best Choice
 
 - Regions with hydrogen infrastructure or plans
 
-When Bloom May Be Considered
+When SOFC May Be Considered
 
 - Existing natural gas infrastructure
 
-- California markets with utility incentives
+- Markets with utility incentives
 
 - Lower initial sustainability requirements
 
-- Existing Bloom relationship
-
-***Note:** Horizon offers SMR-integrated solutions for natural gas
-markets, providing a bridge technology with significantly reduced
-on-site emissions while maintaining our superior reliability and
+***Note:** Horizon offers SMR-integrated solutions (3TPD hydrogen production for 2MW power output) for areas where hydrogen is not widely available and natural gas is, providing a bridge technology while maintaining our superior reliability and
 deployment advantages.*
 
 Competitive Summary
 
-Horizon Fuel Cell offers decisive advantages for data centers
-prioritizing:
+Horizon Fuel Cell offers decisive advantages for utility providers and local governments prioritizing:
 
 - **Zero on-site emissions** - Pure hydrogen produces only water
 
 - **Superior reliability** - 99.99% uptime (four nines) with N+1
   redundancy
 
-- **Rapid deployment** - 4 months vs 6-12 months
+- **Rapid deployment** - Deployment start as low as 4 months vs 12-24 months
 
-- **Technology flexibility** - Pure H2 or SMR integration
+- **Technology flexibility** - Pure H2 or SMR integration for areas where hydrogen is not widely available
 
 - **Future-ready** - Aligned with global hydrogen economy
 
-While Bloom Energy has established presence in the California market
-with natural gas solutions, Horizon\'s pure hydrogen approach, faster
+- **25-35% lower TCO** - Better economics over system lifetime
+
+SOFC solutions have established presence in some markets
+with natural gas solutions. Horizon's pure hydrogen approach, faster
 deployment, higher reliability, and zero on-site emissions position us
-as the preferred choice for data centers committed to sustainability and
+as the preferred choice for organizations committed to sustainability and
 operational excellence.
 
 Contact Horizon

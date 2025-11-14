@@ -13,7 +13,7 @@
 
 The updated strategy documents introduce **significant refinements** to Horizon's positioning and messaging that are **not yet reflected** on the current website. While the core value propositions remain intact, the updated strategy provides:
 
-1. **Enhanced competitive positioning** against Bloom Energy with specific differentiation points
+1. **Enhanced competitive positioning** against SOFC with specific differentiation points
 2. **Sharper focus on AI data center market** and grid infrastructure crisis
 3. **More specific technical claims** with validated proof points
 4. **Clearer dual-fuel pathway messaging** (pure hydrogen vs. SMR integration)
@@ -23,7 +23,7 @@ The updated strategy documents introduce **significant refinements** to Horizon'
 
 1. **Uptime claim inconsistency**: Website claims "99.999%" (five nines) but updated strategy specifies "99.99%" (four nines) with N+1 redundancy
 2. **Missing SMR solution messaging**: No mention of natural gas pathway despite being prominently featured in updated strategy
-3. **Incomplete competitive differentiation**: Bloom Energy comparison absent from website
+3. **Incomplete competitive differentiation**: SOFC comparison absent from website
 4. **Limited market context**: AI workload boom and grid crisis not adequately emphasized
 5. **Weak proof points**: 50M+ operating hours mentioned but not leveraged effectively
 
@@ -34,12 +34,12 @@ The updated strategy documents introduce **significant refinements** to Horizon'
 ### 1.1 Executive Strategy Document Changes
 
 #### DEPLOYMENT TIMELINE
-**OLD (Existing):** "From PO to Power-On in 90 Days" (primary hero message)
+**OLD (Existing):** "From Deployment start in 90 Days" (primary hero message)
 **NEW (Updated):** "4 months" (as low as 4 months) - more conservative, realistic claim
 
 **Analysis:** The updated strategy uses more cautious language. Website overpromises with "90 days" guarantee messaging.
 
-**Recommendation:** Update to "Deploy in as low as 4 months" with footnote explaining optimal conditions. Use "90 days" only for specific proven case studies.
+**Recommendation:** Update to "Deployment start as low as 4 months" with footnote explaining optimal conditions. Use "90 days" only for specific proven case studies.
 
 ---
 
@@ -100,11 +100,11 @@ The updated strategy documents introduce **significant refinements** to Horizon'
 
 ---
 
-### 1.2 Bloom Energy Competitive Analysis Changes
+### 1.2 SOFC Competitive Analysis Changes
 
 #### NEW COMPETITIVE MESSAGING (Not on Website)
 
-The updated competitive analysis document provides extensive Bloom Energy differentiation that is **completely absent** from the current website:
+The updated competitive analysis document provides extensive SOFC differentiation that is **completely absent** from the current website:
 
 **Technology Comparison Table:**
 | Feature | Horizon (Updated Strategy) | Current Website |
@@ -116,23 +116,23 @@ The updated competitive analysis document provides extensive Bloom Energy differ
 | Deployment Time | 4 months vs. 6-12 months | Generic "90 days" |
 
 **Missing Competitive Advantages:**
-- Bloom's high operating temperature (1,800°F) creates thermal cycling fragility
-- Bloom requires 6-12 months deployment (we're faster)
-- Bloom is natural gas-dependent (we offer true hydrogen option)
-- Bloom targets only enterprise (we can serve broader market)
+- SOFC's high operating temperature (1,800°F) creates thermal cycling fragility
+- SOFC requires 6-12 months deployment (we're faster)
+- SOFC is natural gas-dependent (we offer true hydrogen option)
+- SOFC targets only enterprise (we can serve broader market)
 
-**Recommendation:** **MEDIUM PRIORITY** - Add "Why Horizon vs. Bloom Energy" comparison page under /why/ section
+**Recommendation:** **MEDIUM PRIORITY** - Add "Why Horizon vs. SOFC" comparison page under /why/ section
 
 ---
 
 #### COST TRANSPARENCY OPPORTUNITY
 
 **Updated Strategy Insight:**
-> "Bloom's Approach: 'Predictable costs' language but no actual numbers. Pricing buried, only accessible through sales process. Reality Check: Capital Cost: $7,000-8,000 per kW ($700K-800K per 100kW unit)"
+> "SOFC's Approach: 'Predictable costs' language but no actual numbers. Pricing buried, only accessible through sales process. Reality Check: Capital Cost: $7,000-8,000 per kW ($700K-800K per 1.5MW continuous power, 3MW peak power unit)"
 
-**Current Website:** Also lacks pricing transparency (same weakness as Bloom)
+**Current Website:** Also lacks pricing transparency (same weakness as SOFC)
 
-**Recommendation:** **MEDIUM PRIORITY** - Add TCO calculator with transparent pricing ranges to differentiate from Bloom's opaque approach
+**Recommendation:** **MEDIUM PRIORITY** - Add TCO calculator with transparent pricing ranges to differentiate from SOFC's opaque approach
 
 ---
 
@@ -317,7 +317,7 @@ The updated competitive analysis document provides extensive Bloom Energy differ
 | **P1** | Fix uptime claim (99.99% not 99.999%) | **High** | **Easy** | **1 day** |
 | **P1** | Add "on-site" to emissions claims | **High** | **Easy** | **1 day** |
 | **P1** | Add SMR/natural gas solution pathway | **High** | Medium | **1 week** |
-| **P2** | Add Bloom Energy comparison page | **Medium** | Medium | **3 days** |
+| **P2** | Add SOFC comparison page | **Medium** | Medium | **3 days** |
 | **P2** | Update hero with AI workload context | **Medium** | **Easy** | **1 day** |
 | **P2** | Add N+1 redundancy explanation | **Medium** | **Easy** | **2 days** |
 | **P3** | Add TCO calculator with pricing transparency | **Medium** | **Hard** | **2 weeks** |
@@ -332,7 +332,7 @@ The updated competitive analysis document provides extensive Bloom Energy differ
 
 #### Current (INCORRECT):
 ```
-From PO to Power-On in 90 Days
+From Deployment start in 90 Days
 
 Eliminate the 18-48 month grid connection bottleneck. Deploy zero-emission fuel cell
 power with 99.999% uptime.
@@ -402,7 +402,6 @@ pathway to 100% carbon-free operations.
 
 - 0g CO₂
 - Silent operation
-- EPA compliant
 ```
 
 #### Recommended (UPDATED STRATEGY):
@@ -413,7 +412,6 @@ no carbon, no pollutants.
 
 - 0g CO₂ on-site emissions
 - Silent operation (no noise pollution)
-- EPA compliant with no air permits required
 - Renewable hydrogen pathway to 100% carbon-free operations
 
 Need natural gas infrastructure? Our SMR-integrated systems reduce on-site emissions
@@ -435,13 +433,13 @@ by 60-70% vs. diesel generators while providing a bridge to pure hydrogen.
 ```markdown
 # Why Horizon vs. Other Backup Power Solutions
 
-## Horizon vs. Bloom Energy
+## Horizon vs. SOFC
 
-Bloom Energy is an established fuel cell provider focused on solid oxide fuel cell
+SOFC is an established fuel cell provider focused on solid oxide fuel cell
 (SOFC) technology running primarily on natural gas. Horizon offers decisive
 advantages for data centers prioritizing speed, emissions, and reliability:
 
-| Feature | Horizon Fuel Cell | Bloom Energy |
+| Feature | Horizon Fuel Cell | SOFC |
 |---------|-------------------|--------------|
 | **Primary Fuel** | Pure Hydrogen (with SMR option) | Natural Gas |
 | **On-Site Emissions** | Zero (pure H2 pathway) | CO₂ emissions |
@@ -449,22 +447,22 @@ advantages for data centers prioritizing speed, emissions, and reliability:
 | **Start-up Time** | Minutes | Hours |
 | **Uptime** | 99.99% with N+1 redundancy | 99.9% typical |
 | **Deployment Time** | 4 months | 6-12 months |
-| **Scalability** | Modular (200kW to multi-MW) | Fixed 250kW units |
+| **Scalability** | Modular (1.5MW to multi-GW) | Fixed 325kW units |
 
 ### Key Differentiators
 
 **Faster Deployment:** Our pre-engineered, modular systems deploy in as low as
-4 months vs. Bloom's 6-12 month timeline. Every month of delay costs $500K+
+4 months vs. SOFC's 6-12 month timeline. Every month of delay costs $500K+
 in lost revenue for a 10MW facility.
 
 **True Zero Emissions:** Pure hydrogen fuel cells produce only water vapor.
-Bloom's natural gas systems emit CO₂, creating compliance risk as emissions
+SOFC's natural gas systems emit CO₂, creating compliance risk as emissions
 regulations tighten.
 
 **Superior Reliability:** 99.99% (four nines) uptime with N+1 redundancy vs.
-Bloom's 99.9% (three nines). That's 10x less downtime.
+SOFC's 99.9% (three nines). That's 10x less downtime.
 
-**Lower Operating Temperature:** PEM fuel cells operate at 60-80°C vs. Bloom's
+**Lower Operating Temperature:** PEM fuel cells operate at 60-80°C vs. SOFC's
 800-1000°C, eliminating thermal cycling fragility and enabling faster start-up.
 ```
 
@@ -505,10 +503,6 @@ Reforming (SMR) solutions.
 
 ### Technical Specifications
 
-- Hydrogen production: 100,000+ Nm³/h capability
-- Operating temperature: 800-900°C reforming temperature
-- Steam-to-carbon ratio: 2.5:1 to 3:1
-- Overall system efficiency: 75-80% (with CHP)
 - Deployment timeline: 4-6 months
 
 ### Ideal For
@@ -552,7 +546,7 @@ Grid Connection Delays
 - Traditional: 18-48 month interconnection queues in major markets
 - Limited utility capacity in Northern Virginia, Santa Clara, Phoenix
 - $170 billion in 2025 data center projects at risk of delay
-- Horizon Solution: Deploy in as low as 4 months with zero grid dependencies
+- Horizon Solution: Deployment start as low as 4 months with zero grid dependencies
 - Impact: Start revenue immediately. Every month of delay costs $500K+ for 10MW facility
 
 Diesel Backup Reliability Concerns
@@ -654,7 +648,7 @@ Customer Segments Served:
 4. Create dual pathway comparison table
 
 **Day 9-10:**
-1. Create Bloom Energy comparison page (`/why/vs-bloom-energy/`)
+1. Create SOFC comparison page (`/why/vs-bloom-energy/`)
 2. Write content following template in Section 4.4
 3. Add to Why Horizon navigation
 
@@ -663,7 +657,7 @@ Customer Segments Served:
    - No demand charges (calculate typical savings)
    - No interconnection fees ($2M-5M avoided)
    - 20-year lifespan vs. diesel replacement costs
-2. Add to ROI calculator inputs
+2. Add to cost calculator inputs
 
 ---
 
@@ -692,7 +686,7 @@ Customer Segments Served:
 
 **Approved Claims (Updated Strategy):**
 - "99.99% uptime with N+1 redundancy" (NOT 99.999%)
-- "Deploy in as low as 4 months" (NOT "90 days guaranteed")
+- "Deployment start as low as 4 months" (NOT "90 days guaranteed")
 - "Zero on-site emissions" (NOT "zero emissions")
 - "50M+ operating hours without catastrophic failure" ✓
 - "Less than 5 minutes downtime per year" ✓
@@ -704,7 +698,7 @@ Customer Segments Served:
 
 **Competitive Messaging:**
 - Lead with differentiation (faster deployment, true zero emissions)
-- Avoid direct attacks (Bloom is "established provider" not "inferior")
+- Avoid direct attacks (SOFC is "established provider" not "inferior")
 - Use comparison tables for factual differences
 - Emphasize customer choice and market segment fit
 
@@ -727,12 +721,12 @@ Customer Segments Served:
 
 **Short-term (Month 1):**
 - SMR solution page published and indexed
-- Bloom Energy comparison page driving competitive win rates
+- SOFC comparison page driving competitive win rates
 - Enhanced proof points increasing trust metrics (time on site, bounce rate)
 
 **Medium-term (Quarter 1):**
 - Natural gas market segment inquiries increase 20%+
-- Competitive win rate vs. Bloom improves (track RFP responses)
+- Competitive win rate vs. SOFC improves (track RFP responses)
 - AI/data center market urgency messaging driving lead quality
 
 **Long-term (Year 1):**
@@ -762,7 +756,7 @@ Customer Segments Served:
 - [ ] Case study deployment times used for specific proof (87 days, 92 days)
 
 **Competitive Positioning:**
-- [ ] Bloom Energy comparison factually accurate
+- [ ] SOFC comparison factually accurate
 - [ ] Temperature, fuel type, deployment time differences cited
 - [ ] No unsubstantiated superiority claims
 
@@ -798,7 +792,7 @@ The updated strategy documents provide **critical refinements** that strengthen 
 1. **Correct uptime overclaim** (99.99% not 99.999%) - IMMEDIATE
 2. **Qualify emissions claims** (add "on-site") - IMMEDIATE
 3. **Add SMR solution pathway** (capture NG market segment) - HIGH PRIORITY
-4. **Enhance competitive positioning vs. Bloom** - HIGH PRIORITY
+4. **Enhance competitive positioning vs. SOFC** - HIGH PRIORITY
 5. **Integrate AI market urgency context** - MEDIUM PRIORITY
 
 These changes are **implementable within 2-4 weeks** and will significantly strengthen content accuracy, market positioning, and competitive differentiation without requiring major website redesign.

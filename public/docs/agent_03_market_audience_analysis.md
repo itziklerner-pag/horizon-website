@@ -15,7 +15,7 @@ The updated strategy documents reveal **significant shifts in market positioning
 
 1. **Market Size Expansion**: Total addressable market expanded from $50-70B to $45B globally (with more conservative projections), with clearer focus on the **35 GW energy gap** by 2030
 2. **Pain Point Evolution**: Shifted from generic "grid delays" to specific **"18-48 month grid connection bottleneck"** as the primary differentiator
-3. **Competitive Positioning**: More nuanced positioning against Bloom Energy with emphasis on **speed (4 months vs 6-12 months)** and **technology flexibility** (pure H2 + SMR options)
+3. **Competitive Positioning**: More nuanced positioning against SOFC with emphasis on **speed (4 months vs 6-12 months)** and **technology flexibility** (pure H2 + SMR options)
 4. **Target Segment Refinement**: Clearer hierarchy with **Hyperscale** as primary target, followed by Colocation, Edge, and explicit addition of **SMR-integration market**
 5. **Value Proposition Consolidation**: Streamlined from 5 pillars to **4 core advantages** (Speed, Reliability, Zero Emissions, Lower TCO) with quantified metrics
 
@@ -60,15 +60,15 @@ The website currently positions Horizon as a **backup power solution** when the 
 
 | Competitor/Technology | Old Strategy Position | Updated Strategy Position | Change |
 |-----------------------|----------------------|---------------------------|--------|
-| **Bloom Energy** | Primary competitor, natural gas focus | **44% market share, $1.47B revenue, SOFC technology** | More detailed competitive intelligence |
+| **SOFC** | Primary competitor, natural gas focus | **44% market share, $1.47B revenue, SOFC technology** | More detailed competitive intelligence |
 | **Small Modular Reactors (SMRs)** | Not mentioned | **$6.3B market, major hyperscaler commitments (Google 500MW, Amazon 5GW)** | New competitive threat identified |
 | **Natural Gas Turbines** | Mentioned as traditional | **Explicit comparison with fuel flexibility** | Clearer differentiation |
 | **Renewables + Storage** | Not compared | **50 GW contracted by data centers in 2024** | Recognized as significant competitor |
 
 **Website Impact**:
 - Add **SMR comparison** to competitive positioning (emphasize faster deployment: months vs 2030-2039)
-- Update Bloom Energy comparison with specific data: **4 months (Horizon) vs 6-12 months (Bloom)**
-- Create "Technology Comparison Matrix" showing Horizon vs Bloom vs SMRs vs Renewables
+- Update SOFC comparison with specific data: **4 months (Horizon) vs 12-24 months (SOFC)**
+- Create "Technology Comparison Matrix" showing Horizon vs SOFC vs SMRs vs Renewables
 
 ### 1.4 Geographic Market Priorities
 
@@ -153,7 +153,7 @@ The website currently positions Horizon as a **backup power solution** when the 
 
 **Website Impact**:
 - Add **"Download Library"** with persona-specific assets to accumulate touchpoints
-- Implement lead scoring based on content downloads (ROI Calculator = +50 points)
+- Implement lead scoring based on content downloads (Cost Calculator = +50 points)
 - Create **"Share with Your Team"** functionality for multi-stakeholder buying
 
 ---
@@ -163,7 +163,7 @@ The website currently positions Horizon as a **backup power solution** when the 
 ### 3.1 Core Messaging Evolution
 
 **Old Strategy**: 5 Messaging Pillars
-1. Speed ("From PO to Power-On in 90 Days")
+1. Speed ("From Deployment start in 90 Days")
 2. Reliability ("Mission-Critical Uptime: 99.999%")
 3. Environmental ("Zero-Emission Compliance Today")
 4. Total Cost of Ownership
@@ -183,7 +183,7 @@ The website currently positions Horizon as a **backup power solution** when the 
 > "Next-Generation Reliability" - Occupies premium middle ground between conservative establishment and disruptive innovation
 
 **Updated Strategy**:
-> "From PO to Power-On in 90 Days — Deploy Your Data Center in Months, Not Years"
+> "From Deployment start in 90 Days — Deploy Your Data Center in Months, Not Years"
 
 **Impact**: Old positioning is **emotionally-driven and abstract**. New positioning is **action-oriented and specific**. Website hero messaging needs complete rewrite.
 
@@ -230,7 +230,7 @@ The website currently positions Horizon as a **backup power solution** when the 
 **Old Strategy**: Direct sales to data center operators
 
 **Updated Strategy**: **Utility partnerships as Tier 2 strategic channel**
-- AEP/Bloom Energy model: Up to 1 GW agreement
+- AEP/SOFC model: Up to 1 GW agreement
 - Utility purchases fuel cells, sells power to data centers
 - De-risks customer acquisition, leverages utility relationships
 
@@ -299,12 +299,12 @@ The website currently positions Horizon as a **backup power solution** when the 
 |-------|----------------|------------------------|----------------|
 | **Awareness** | Generic industry trends blog | **AI-specific power crisis content**: "68 GW Gap by 2027" | Whitepaper: "AI Data Center Power Crisis" |
 | **Consideration** | Solution overview page | **Time-to-market comparison**: 4 months vs 18-48 months grid | Interactive timeline tool |
-| **Evaluation** | Technical specs | **Business case builder**: ROI calculator with AI workload scenarios | ROI Calculator 2.0 with AI-specific inputs |
+| **Evaluation** | Technical specs | **Business case builder**: cost calculator with AI workload scenarios | Cost Calculator 2.0 with AI-specific inputs |
 | **Purchase** | Contact form | **Pilot program offering**: 1-5 MW reference deployment | Dedicated pilot program page |
 
 **Key Addition**: **8+ touchpoints before first meeting** requirement
 - Current: 2-3 touchpoints (solution page + contact)
-- Needed: Download library with 6-8 assets (whitepapers, case studies, ROI calculator, timeline tool, comparison guides)
+- Needed: Download library with 6-8 assets (whitepapers, case studies, cost calculator, timeline tool, comparison guides)
 
 #### **Journey 2: Colocation Providers (Tier 3)**
 
@@ -335,7 +335,7 @@ The website currently positions Horizon as a **backup power solution** when the 
 **Updated Strategy**: **Behavioral + Firmographic Scoring (0-200 points)**
 
 **Behavioral Scoring**:
-- ROI Calculator use: **+50 points**
+- Cost Calculator use: **+50 points**
 - Case study download: **+25 points**
 - Pricing page visit: **+30 points**
 - Return visitor (3+ sessions): **+20 points**
@@ -378,7 +378,7 @@ The website currently positions Horizon as a **backup power solution** when the 
    - Track multi-stakeholder engagement
 
 3. **"Compare Solutions" Tool**
-   - Side-by-side: Horizon vs Bloom vs SMRs vs Grid+Diesel
+   - Side-by-side: Horizon vs SOFC vs SMRs vs Grid+Diesel
    - Persona-specific comparison criteria (Energy Leader sees business case, Operations sees reliability, etc.)
    - Downloadable PDF for internal presentations
 
@@ -406,7 +406,7 @@ The website currently positions Horizon as a **backup power solution** when the 
    - CTA: "See How Horizon Solves This"
 
 6. **Competitive Positioning Update**:
-   - Add specific Bloom Energy comparison: **4 months vs 6-12 months**
+   - Add specific SOFC comparison: **4 months vs 6-12 months**
    - Add SMR comparison: **Available now vs 2030-2039**
    - Quantify TCO advantage: **25-35% lower vs diesel+grid**
 
@@ -433,14 +433,14 @@ The website currently positions Horizon as a **backup power solution** when the 
 
 **INTERACTIVE TOOLS**:
 
-10. **ROI Calculator 2.0**:
+10. **Cost Calculator 2.0**:
     - Add AI workload scenario inputs
     - Show time-to-market value (earlier revenue vs grid delays)
-    - Compare: Horizon vs Grid vs Bloom vs SMRs
+    - Compare: Horizon vs Grid vs SOFC vs SMRs
     - Persona-specific outputs (business case for Energy Leaders, TCO for Procurement)
 
 11. **Deployment Timeline Tool**:
-    - Interactive Gantt chart: Horizon (4 months) vs Grid (18-48 months) vs Bloom (6-12 months) vs SMRs (2030-2039)
+    - Interactive Gantt chart: Horizon (4 months) vs Grid (18-48 months) vs SOFC (6-12 months) vs SMRs (2030-2039)
     - Location-based delays (Northern Virginia, Santa Clara, Phoenix)
     - Downloadable custom timeline PDF
 
@@ -494,7 +494,7 @@ The website currently positions Horizon as a **backup power solution** when the 
     - Evaluation checklist tracker
 
 18. **Comparison Tool Suite**:
-    - Technology Comparison: Fuel Cells vs Bloom vs SMRs vs Renewables vs Grid
+    - Technology Comparison: Fuel Cells vs SOFC vs SMRs vs Renewables vs Grid
     - TCO Comparison: 10-year financial model with sensitivity analysis
     - Deployment Timeline Comparison: Interactive Gantt with location filters
     - Emissions Comparison: Lifecycle carbon footprint analysis
@@ -532,7 +532,7 @@ The website currently positions Horizon as a **backup power solution** when the 
 - Pages per session: **>4**
 
 **Content Engagement**:
-- ROI Calculator usage: **XXX sessions per month**
+- Cost Calculator usage: **XXX sessions per month**
 - Whitepaper downloads: **XXX per month**
 - Video views: **X,XXX per month (>50% completion rate)**
 
@@ -540,7 +540,7 @@ The website currently positions Horizon as a **backup power solution** when the 
 
 | Segment | Awareness Metric | Consideration Metric | Evaluation Metric | Conversion Metric |
 |---------|------------------|----------------------|-------------------|-------------------|
-| **Hyperscale** | /solutions/hyperscale page views | AI whitepaper downloads | ROI Calculator completions | Consultation requests from >5,000 employee companies |
+| **Hyperscale** | /solutions/hyperscale page views | AI whitepaper downloads | Cost Calculator completions | Consultation requests from >5,000 employee companies |
 | **Colocation** | /solutions/colocation page views | Case study downloads | Pricing page visits | Quick quote tool submissions |
 | **Utility** | /for-utilities page views | Partnership model guide downloads | Regulatory framework views | Partner application submissions |
 | **Edge** | /solutions/edge page views | Deployment guide downloads | Technical spec sheet views | Edge deployment consultations |
@@ -558,17 +558,17 @@ The website currently positions Horizon as a **backup power solution** when the 
 
 ## 8. COMPETITIVE DIFFERENTIATION WEBSITE STRATEGY
 
-### 8.1 Bloom Energy Comparison Updates
+### 8.1 SOFC Comparison Updates
 
 **Current Website**: Generic "vs competitors" comparison
 
-**Updated Strategy**: **Explicit Bloom Energy differentiation** with specific data:
+**Updated Strategy**: **Explicit SOFC differentiation** with specific data:
 
 **Create Dedicated Comparison Page**: `/compare/horizon-vs-bloom-energy`
 
 **Key Differentiators to Emphasize**:
 
-| Factor | Horizon | Bloom Energy |
+| Factor | Horizon | SOFC |
 |--------|---------|--------------|
 | **Deployment Speed** | **4 months** | 6-12 months |
 | **Primary Fuel** | Pure Hydrogen (with SMR option) | Natural gas (hydrogen-ready future) |
@@ -586,15 +586,15 @@ The website currently positions Horizon as a **backup power solution** when the 
 - Mission-critical operations requiring 99.99% uptime with N+1
 - **Future-proof technology** (hydrogen economy alignment)
 
-**When Bloom May Be Considered**:
+**When SOFC May Be Considered**:
 - Existing natural gas infrastructure (BUT note: Horizon offers SMR integration)
 - California markets with utility incentives
-- Existing Bloom relationship
+- Existing SOFC relationship
 
 **Website Execution**:
 - Add "Compare" dropdown in main navigation
-- Create battle cards: Horizon vs Bloom, Horizon vs SMRs, Horizon vs Grid+Diesel
-- Add FAQ: "How does Horizon compare to Bloom Energy?"
+- Create battle cards: Horizon vs SOFC, Horizon vs SMRs, Horizon vs Grid+Diesel
+- Add FAQ: "How does Horizon compare to SOFC?"
 
 ### 8.2 SMR Competitive Positioning
 
@@ -619,7 +619,7 @@ The website currently positions Horizon as a **backup power solution** when the 
 
 **Website Execution**:
 - Add to competitive positioning pages
-- Include in ROI Calculator: "Compare Horizon vs waiting for SMR deployment"
+- Include in Cost Calculator: "Compare Horizon vs waiting for SMR deployment"
 - Create content: "Bridge Technology: Fuel Cells Now, SMRs Later"
 
 ---
@@ -641,7 +641,7 @@ The website currently positions Horizon as a **backup power solution** when the 
 **Priority**: HIGH - Core value proposition alignment
 
 - [ ] Add market context section: 35 GW gap, 18-48 month delays, 38% adoption
-- [ ] Create explicit Bloom Energy comparison page
+- [ ] Create explicit SOFC comparison page
 - [ ] Add SMR competitive positioning
 - [ ] Quantify TCO advantage: **25-35% lower**
 - [ ] Update all solution pages with primary power positioning
@@ -663,7 +663,7 @@ The website currently positions Horizon as a **backup power solution** when the 
 ### Phase 4: Interactive Tools (Week 7-10)
 **Priority**: MEDIUM - Lead generation
 
-- [ ] Build ROI Calculator 2.0 with AI scenarios
+- [ ] Build Cost Calculator 2.0 with AI scenarios
 - [ ] Create Deployment Timeline Tool (interactive Gantt)
 - [ ] Add lead scoring implementation
 - [ ] Implement "Share with Your Team" functionality
@@ -701,7 +701,7 @@ The website currently positions Horizon as a **backup power solution** when the 
 
 1. **Backup vs Primary Power**: Website positions as backup; strategy positions as primary power alternative
 2. **Uptime Overclaim**: Website shows 99.999%; correct specification is 99.99% with N+1 redundancy
-3. **Generic Positioning**: Website lacks specific competitive differentiation; strategy provides detailed Bloom/SMR comparisons
+3. **Generic Positioning**: Website lacks specific competitive differentiation; strategy provides detailed SOFC/SMR comparisons
 4. **Segment Equality**: Website treats all segments equally; strategy prioritizes Hyperscale > Utility > Colocation > Edge
 5. **Missing SMR Solution**: Strategy explicitly includes SMR integration; website has no mention
 
@@ -713,11 +713,11 @@ The website currently positions Horizon as a **backup power solution** when the 
    - Change from generic reliability to specific time-to-market advantage
    - Emphasize "4 months vs 18-48 months grid delays"
 
-2. **Bloom Energy Comparison Page** → Estimated 15-25% increase in qualified leads
+2. **SOFC Comparison Page** → Estimated 15-25% increase in qualified leads
    - Address #1 competitive objection directly
    - Show specific advantages: 4 months vs 6-12 months, pure H2 vs natural gas
 
-3. **ROI Calculator 2.0** → Estimated 10-20% increase in MQLs
+3. **Cost Calculator 2.0** → Estimated 10-20% increase in MQLs
    - Add AI workload scenarios
    - Show time-to-market value (earlier revenue)
    - Persona-specific outputs
@@ -741,14 +741,14 @@ The website currently positions Horizon as a **backup power solution** when the 
 | **Primary Positioning** | "Grid-independent primary power" | "Backup power", "Emergency power" |
 | **Emissions** | "0g CO₂ on-site emissions" | "Zero emissions", "Clean" (without quantification) |
 | **TCO Advantage** | "25-35% lower TCO vs diesel+grid" | "Lower cost", "Cost-effective" (without percentage) |
-| **Competitive** | "4 months vs 6-12 months (Bloom) vs 18-48 months (grid)" | "Faster than competitors" |
+| **Competitive** | "4 months vs 12-24 months (SOFC) vs 18-48 months (grid)" | "Faster than competitors" |
 
 ### 10.4 Measurement & Accountability
 
 **Weekly Metrics Review**:
 - Homepage hero A/B test: Time-to-market messaging vs generic reliability
-- Bloom comparison page traffic and conversion
-- ROI Calculator usage and completion rate
+- SOFC comparison page traffic and conversion
+- Cost Calculator usage and completion rate
 - Lead scoring distribution: Hot/Warm/Cold
 
 **Monthly Strategic Review**:
@@ -771,7 +771,7 @@ The website currently positions Horizon as a **backup power solution** when the 
 
 **Updated Strategy Documents**:
 1. `/Users/itziklerner/dev/horizon-website/updated_strategy/Executive_Strategy_Updated.md`
-2. `/Users/itziklerner/dev/horizon-website/updated_strategy/Bloom_Energy_Competitive_Analysis_Updated.md`
+2. `/Users/itziklerner/dev/horizon-website/updated_strategy/SOFC_Energy_Competitive_Analysis_Updated.md`
 3. `/Users/itziklerner/dev/horizon-website/updated_strategy/Data_Center_Energy_Market_Research_Report_Updated.md`
 
 **Existing Strategy Documents**:
@@ -794,7 +794,7 @@ The website currently positions Horizon as a **backup power solution** when the 
 | TCO Advantage | Generic | **25-35% lower** | "Lowest over 10 years" | Add percentage |
 | Market Size | $50-70B | **$45B (global 2030)** | Not shown | Add to market context |
 | Energy Gap | Mentioned | **35 GW by 2030** | Not shown | Add to homepage |
-| Bloom Comparison | Generic | **4 months vs 6-12 months** | Not shown | Create comparison page |
+| SOFC Comparison | Generic | **4 months vs 6-12 months** | Not shown | Create comparison page |
 
 ---
 
@@ -856,7 +856,7 @@ Solutions ▼
 
 ## APPENDIX C: COMPETITIVE INTELLIGENCE SUMMARY
 
-### Bloom Energy Detailed Comparison
+### SOFC Detailed Comparison
 
 **Market Position**:
 - **44% global stationary fuel cell market share**
@@ -869,7 +869,7 @@ Solutions ▼
 - Solid Oxide Fuel Cells (SOFC)
 - Operating temperature: 800-1000°C (1,800°F)
 - Primary fuel: Natural gas (hydrogen-ready future)
-- 250kW Energy Server units
+- 325kW Energy Server units
 
 **Deployment Timeline**:
 - Claimed: "90 days"
@@ -877,11 +877,11 @@ Solutions ▼
 - Equinix example: 10 years to reach 100 MW (slow ramp)
 
 **Vulnerabilities for Horizon to Exploit**:
-1. **Speed**: 4 months (Horizon) vs 6-12 months (Bloom)
-2. **Emissions**: 0g CO₂ pure H2 (Horizon) vs CO₂ from natural gas (Bloom)
-3. **Temperature**: 60-80°C (Horizon) vs 800-1000°C (Bloom) = faster start-up, safer
-4. **Fuel**: Pure H2 today (Horizon) vs natural gas with future hydrogen-ready (Bloom)
-5. **Flexibility**: Pure H2 OR SMR integration (Horizon) vs natural gas only today (Bloom)
+1. **Speed**: 4 months (Horizon) vs 12-24 months (SOFC)
+2. **Emissions**: 0g CO₂ pure H2 (Horizon) vs CO₂ from natural gas (SOFC)
+3. **Temperature**: 60-80°C (Horizon) vs 800-1000°C (SOFC) = faster start-up, safer
+4. **Fuel**: Pure H2 today (Horizon) vs natural gas with future hydrogen-ready (SOFC)
+5. **Flexibility**: Pure H2 OR SMR integration (Horizon) vs natural gas only today (SOFC)
 
 ### Small Modular Reactor (SMR) Landscape
 

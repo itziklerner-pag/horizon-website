@@ -27,7 +27,7 @@ After comprehensive analysis by 4 specialized agents (Content Strategy, Competit
 
 **3. COMPETITIVE POSITIONING GAP - BLOOM ENERGY**
 - **Current Website:** No mention of primary competitor
-- **Updated Strategy:** Detailed Bloom Energy competitive intelligence with specific differentiators
+- **Updated Strategy:** Detailed SOFC competitive intelligence with specific differentiators
 - **Impact:** Unable to address #1 competitive objection
 - **Action:** HIGH PRIORITY - Comparison page needed (Week 2-3)
 
@@ -38,8 +38,8 @@ After comprehensive analysis by 4 specialized agents (Content Strategy, Competit
 - **Action:** CRITICAL - Reframe all messaging (Week 1)
 
 **5. TIMELINE CREDIBILITY - "90 DAYS" VS "4 MONTHS"**
-- **Current Website:** "From PO to Power-On in 90 Days"
-- **Updated Strategy:** "Deploy in as low as 4 months"
+- **Current Website:** "From Deployment start in 90 Days"
+- **Updated Strategy:** "Deployment start as low as 4 months"
 - **Analysis:** 4 months is more realistic and credible
 - **Action:** Update consistently across site (Week 1)
 
@@ -83,7 +83,7 @@ After comprehensive analysis by 4 specialized agents (Content Strategy, Competit
 
 **Content Strategy Agent:** "This is a MAJOR GAP. The updated strategy acknowledges natural gas as a transitional pathway, but website is pure hydrogen-only positioning."
 
-**Competitive Positioning Agent:** "SMR integration competes directly in natural gas markets, addressing Bloom's primary territory."
+**Competitive Positioning Agent:** "SMR integration competes directly in natural gas markets, addressing SOFC's primary territory."
 
 **Market Research Agent:** "New segment added: SMR Integration for natural gas infrastructure markets. Missing 30-40% of addressable market."
 
@@ -106,15 +106,15 @@ After comprehensive analysis by 4 specialized agents (Content Strategy, Competit
 
 ---
 
-#### B. Bloom Energy Competitive Comparison
+#### B. SOFC Competitive Comparison
 
 **Agent Consensus: ALL 4 AGENTS IDENTIFIED AS HIGH PRIORITY**
 
-**Content Strategy Agent:** "Bloom Energy comparison absent from website despite extensive competitive intelligence in updated strategy."
+**Content Strategy Agent:** "SOFC comparison absent from website despite extensive competitive intelligence in updated strategy."
 
-**Competitive Positioning Agent:** "The updated strategy reveals more aggressive, evidence-based competitive positioning against Bloom's market dominance (44% share, $1.47B revenue)."
+**Competitive Positioning Agent:** "The updated strategy reveals more aggressive, evidence-based competitive positioning against SOFC's market dominance (44% share, $1.47B revenue)."
 
-**Market Research Agent:** "Specific Bloom Energy comparison: 4 months vs 6-12 months deployment, pure H2 vs natural gas, 99.99% vs 99.9% uptime."
+**Market Research Agent:** "Specific SOFC comparison: 4 months vs 6-12 months deployment, pure H2 vs natural gas, 99.99% vs 99.9% uptime."
 
 **Technical Implementation Agent:** "Create Dedicated Comparison Page: `/vs/bloom-energy` with technology comparison (PEM vs SOFC)."
 
@@ -123,15 +123,15 @@ After comprehensive analysis by 4 specialized agents (Content Strategy, Competit
 1. **New Page:** `/app/vs/bloom-energy/page.tsx`
    - **Comparison Table:** Feature-by-feature (Technology, Deployment, Emissions, Uptime, Cost)
    - **Key Differentiators:**
-     - Operating Temperature: 60-80°C (Horizon) vs 800-1000°C (Bloom)
+     - Operating Temperature: 60-80°C (Horizon) vs 800-1000°C (SOFC)
      - Deployment: 4 months vs 6-12 months
      - Emissions: 0g CO₂ (pure H2) vs CO₂ from natural gas
      - Lifespan: 20 years vs 10-year replacement
    - **Effort:** 4 days development + content
 
-2. **SEO Strategy:** Target "Horizon vs Bloom Energy", "PEM vs SOFC", "Bloom Energy alternative"
+2. **SEO Strategy:** Target "Horizon vs SOFC", "PEM vs SOFC", "SOFC alternative"
 
-**Business Impact:** Address #1 competitive objection directly, improve win rate vs Bloom
+**Business Impact:** Address #1 competitive objection directly, improve win rate vs SOFC
 
 ---
 
@@ -150,7 +150,7 @@ After comprehensive analysis by 4 specialized agents (Content Strategy, Competit
 **Homepage Hero Enhancement:**
 ```
 FROM:
-"From PO to Power-On in 90 Days
+"From Deployment start in 90 Days
 Eliminate the 18-48 month grid connection bottleneck."
 
 TO:
@@ -196,7 +196,6 @@ no combustion, no carbon, no pollutants.
 
 - 0g CO₂ on-site emissions
 - Silent operation (no noise pollution)
-- EPA compliant with no air permits required
 - Renewable hydrogen pathway to 100% carbon-free operations
 
 Need natural gas infrastructure? Our SMR-integrated systems reduce
@@ -219,7 +218,7 @@ a bridge to pure hydrogen.
 
 **Key Technical Differentiators Identified:**
 
-| Feature | Horizon (PEM) | Bloom (SOFC) | Advantage |
+| Feature | Horizon (PEM) | SOFC (SOFC) | Advantage |
 |---------|--------------|--------------|-----------|
 | **Operating Temperature** | 60-80°C | 800-1000°C | Safety, faster startup, no thermal cycling risk |
 | **Start-up Time** | Minutes | Hours | Better for variable demand, cycling applications |
@@ -376,7 +375,7 @@ a bridge to pure hydrogen.
 
 #### Week 6-7: Competitive Intelligence
 
-**Bloom Energy Comparison:**
+**SOFC Comparison:**
 - ✅ `/app/vs/bloom-energy/page.tsx` - Comprehensive comparison
 - ✅ PEM vs SOFC technology comparison tables
 - ✅ Deployment speed reality check (4 months vs 6-12 months)
@@ -391,13 +390,13 @@ a bridge to pure hydrogen.
 **Effort:** 10-12 days (1 developer + content writer)
 
 **Deliverables:**
-- Bloom Energy comparison page live
+- SOFC comparison page live
 - Interactive solution selector
 - Competitive messaging throughout site
 
 ---
 
-#### ROI Calculator Enhancement
+#### Cost Calculator Enhancement
 
 **Updates:**
 - ✅ Add toggle for Pure Hydrogen vs SMR-Integrated
@@ -408,7 +407,7 @@ a bridge to pure hydrogen.
 
 **Effort:** 4-5 days (1 developer)
 
-**Deliverable:** ROI Calculator 2.0 with SMR support and competitive TCO
+**Deliverable:** Cost Calculator 2.0 with SMR support and competitive TCO
 
 ---
 
@@ -482,7 +481,7 @@ a bridge to pure hydrogen.
 | **Emissions - SMR** | "60-70% reduction vs diesel generators" | "Clean", "Low emissions" |
 | **Primary Positioning** | "Grid-independent primary power" | "Backup power", "Emergency power" |
 | **TCO Advantage** | "25-35% lower TCO vs diesel+grid" | "Lower cost", "Cost-effective" |
-| **Competitive** | "4 months vs 6-12 months (Bloom) vs 18-48 months (grid)" | "Faster than competitors" |
+| **Competitive** | "4 months vs 12-24 months (SOFC) vs 18-48 months (grid)" | "Faster than competitors" |
 | **Operating Hours** | "50M+ operating hours without catastrophic failure" | "Proven", "Reliable" (without quantification) |
 
 ---
@@ -491,12 +490,12 @@ a bridge to pure hydrogen.
 
 | Dimension | Horizon Position | Competitive Differentiation | Proof Point |
 |-----------|------------------|----------------------------|-------------|
-| **Speed** | 4-month deployment | vs 6-12 months (Bloom), 18-48 months (grid) | Pre-engineered, modular systems |
+| **Speed** | 4-month deployment | vs 12-24 months (SOFC), 18-48 months (grid) | Pre-engineered, modular systems |
 | **Reliability** | 99.99% (four nines) with N+1 | vs 99.9% (three nines) without redundancy | 50M+ hours without catastrophic failure |
-| **Environment** | Zero on-site (pure H2) OR 60-70% reduction (SMR) | vs CO₂ emissions (Bloom NG), high emissions (diesel) | 0g CO₂ (pure H2), renewable pathway |
+| **Environment** | Zero on-site (pure H2) OR 60-70% reduction (SMR) | vs CO₂ emissions (SOFC NG), high emissions (diesel) | 0g CO₂ (pure H2), renewable pathway |
 | **Economics** | 25-35% lower TCO, 20-year lifespan | vs 10-year replacement, higher maintenance | No demand charges, predictable fuel costs |
 | **Technology** | PEM 60-80°C, minutes startup, 90K+ hours | vs SOFC 800-1000°C, hours startup, thermal fragility | Hot-swappable, field-serviceable |
-| **Flexibility** | Pure H2 OR SMR pathway | vs natural gas only (Bloom), diesel only (traditional) | Bridge technology with clear upgrade path |
+| **Flexibility** | Pure H2 OR SMR pathway | vs natural gas only (SOFC), diesel only (traditional) | Bridge technology with clear upgrade path |
 
 ---
 
@@ -560,7 +559,7 @@ a bridge to pure hydrogen.
 **Best-of-Breed Comparison Table:**
 
 ```markdown
-| Factor                  | Horizon Pure H2          | Horizon SMR             | Bloom Energy            | Traditional Grid + Diesel |
+| Factor                  | Horizon Pure H2          | Horizon SMR             | SOFC            | Traditional Grid + Diesel |
 |------------------------|--------------------------|-------------------------|-------------------------|---------------------------|
 | **Deployment Timeline** | **4 months**             | **4-6 months**          | 6-12 months             | 18-48 months              |
 | **Fuel Source**        | Pure Hydrogen            | Natural gas → On-site H2 | Natural gas             | Grid + diesel             |
@@ -569,7 +568,7 @@ a bridge to pure hydrogen.
 | **Start-up Time**      | **Minutes**              | **Minutes**             | Hours                   | N/A                       |
 | **Uptime**             | **99.99% with N+1**      | **99.99% with N+1**     | 99.9% (three nines)     | 99.9%                     |
 | **System Lifespan**    | **20 years (90K+ hours)** | **20 years**            | ~10 years               | Varies                    |
-| **Scalability**        | Modular (200kW-MW+)      | Modular (1MW-MW+)       | Fixed 250kW units       | N/A                       |
+| **Scalability**        | Modular (1.5MW-multi-GW)      | Modular (1MW-MW+)       | Fixed 325kW units       | N/A                       |
 | **TCO (20 years)**     | **Baseline (lowest)**    | **+5-10%**              | +10-15%                 | +30-40%                   |
 | **Future-Proofing**    | Hydrogen-ready today     | Clear upgrade path to pure H2 | "Hydrogen-ready" (future) | No pathway              |
 ```
@@ -630,9 +629,9 @@ a bridge to pure hydrogen.
 | **SMR Solution Page** | High | Large | ✅✅✅✅ | P0 | 1 |
 | **Navigation Updates** | High | Small | ✅✅✅✅ | P0 | 1 |
 | **Technology Hub** | High | Medium | ✅✅✅ | P1 | 2 |
-| **Bloom Comparison Page** | High | Medium | ✅✅✅✅ | P1 | 2 |
+| **SOFC Comparison Page** | High | Medium | ✅✅✅✅ | P1 | 2 |
 | **Solution Selector** | High | Medium | ✅✅ | P1 | 2 |
-| **ROI Calculator (SMR)** | High | Large | ✅✅✅ | P1 | 2 |
+| **Cost Calculator (SMR)** | High | Large | ✅✅✅ | P1 | 2 |
 | **Regional Markets** | Medium | Large | ✅✅ | P2 | 3 |
 | **Advanced Visualizations** | Medium | Large | ✅ | P2 | 3 |
 | **Site Search** | Low | Large | ✅ | P2 | 3 |
@@ -665,14 +664,14 @@ a bridge to pure hydrogen.
 - Bounce rate: <40% (target: -10% from current)
 
 **Conversion:**
-- Bloom comparison page traffic: 1,000+/month
+- SOFC comparison page traffic: 1,000+/month
 - Solution selector completions: Track new metric
-- ROI calculator usage: +30% from baseline
+- cost calculator usage: +30% from baseline
 - Contact form submissions: +25% from baseline
 
 **SEO:**
 - "SMR fuel cell" keyword ranking: Top 10
-- "Horizon vs Bloom Energy" ranking: Top 5
+- "Horizon vs SOFC" ranking: Top 5
 - Organic traffic to SMR pages: 500+/month by month 3
 
 ---
@@ -682,7 +681,7 @@ a bridge to pure hydrogen.
 **Business Impact:**
 - Marketing sourced pipeline: $XX million (from website content engagement)
 - Lead quality (SQL conversion): +15% improvement
-- Win rate vs Bloom Energy: Track competitive wins
+- Win rate vs SOFC: Track competitive wins
 - SMR market segment inquiries: 20%+ increase
 
 **Content Performance:**
@@ -692,7 +691,7 @@ a bridge to pure hydrogen.
 
 **Competitive:**
 - Competitive page → Contact form conversion: >5%
-- Bloom objection handling success: Track in CRM
+- SOFC objection handling success: Track in CRM
 
 ---
 
@@ -701,7 +700,7 @@ a bridge to pure hydrogen.
 ### 7.1 Critical Risks (Agent Consensus)
 
 **1. Competitive Claims Require Legal Review**
-- **Risk:** Direct Bloom Energy comparison may invite response
+- **Risk:** Direct SOFC comparison may invite response
 - **Mitigation:** Legal review before publishing, source citations, objective comparisons only
 - **Owner:** Legal team + Marketing
 
@@ -715,7 +714,7 @@ a bridge to pure hydrogen.
 - **Mitigation:** Quarterly data review process, "Last updated" timestamps
 - **Owner:** Content team
 
-**4. ROI Calculator Projections Carry Liability**
+**4. Cost Calculator Projections Carry Liability**
 - **Risk:** Financial projections must be defensible
 - **Mitigation:** Assumptions/disclaimers, "Contact us for precise quote" CTA
 - **Owner:** Finance + Legal
@@ -728,7 +727,7 @@ a bridge to pure hydrogen.
 
 ✅ **Approved Claims:**
 - "99.99% uptime with N+1 redundancy"
-- "Deploy in as low as 4 months"
+- "Deployment start as low as 4 months"
 - "Zero on-site emissions" (Pure H2)
 - "60-70% emissions reduction vs diesel" (SMR)
 - "50M+ operating hours without catastrophic failure"
@@ -773,11 +772,11 @@ a bridge to pure hydrogen.
    - Opens new segment: facilities with existing gas infrastructure
    - Position as bridge technology with clear path to pure hydrogen
 
-3. **Bloom Energy Comparison Page** → +15-25% qualified leads
+3. **SOFC Comparison Page** → +15-25% qualified leads
    - Address #1 competitive objection directly
    - Show specific advantages: 4 months vs 6-12 months, pure H2 vs natural gas
 
-4. **ROI Calculator 2.0** → +10-20% MQLs
+4. **Cost Calculator 2.0** → +10-20% MQLs
    - Add AI workload scenarios
    - Show time-to-market value (earlier revenue)
    - SMR cost modeling
@@ -847,7 +846,7 @@ a bridge to pure hydrogen.
 - [ ] CTA messaging
 - [ ] Metadata & SEO content
 
-**Bloom Energy Comparison:**
+**SOFC Comparison:**
 - [ ] Technology comparison (PEM vs SOFC)
 - [ ] Deployment speed comparison
 - [ ] Emissions comparison
@@ -872,7 +871,6 @@ a bridge to pure hydrogen.
 - [ ] ROICalculatorPreview.tsx (add SMR toggle)
 - [ ] IndustryChallenges.tsx (add market data)
 - [ ] FinalCTA.tsx (update messaging)
-- [ ] /app/calculators/roi/page.tsx (SMR calculations)
 
 **New Pages Created:**
 - [ ] /app/solutions/smr-integrated/page.tsx
@@ -908,8 +906,8 @@ a bridge to pure hydrogen.
 **Legal Review Required:**
 - [ ] Uptime claims (99.99% with N+1 redundancy)
 - [ ] Deployment timeline claims (4 months)
-- [ ] Bloom Energy competitive comparisons
-- [ ] ROI calculator assumptions and disclaimers
+- [ ] SOFC competitive comparisons
+- [ ] cost calculator assumptions and disclaimers
 
 **Engineering Sign-Off Required:**
 - [ ] SMR technical specifications (all public values)
@@ -943,7 +941,7 @@ The updated strategy documents introduce **significant refinements** that streng
 
 **HIGH PRIORITY (Week 2-4):**
 1. Add SMR solution pathway (capture NG infrastructure market)
-2. Create Bloom Energy comparison (address #1 competitive objection)
+2. Create SOFC comparison (address #1 competitive objection)
 3. Enhance market urgency context (AI workload crisis, 35 GW gap)
 
 **STRATEGIC (Week 5-11):**
@@ -953,7 +951,7 @@ The updated strategy documents introduce **significant refinements** that streng
 
 **EXPECTED BUSINESS IMPACT:**
 - 25-40% improvement in qualified lead generation
-- 15-25% increase in competitive win rate vs Bloom Energy
+- 15-25% increase in competitive win rate vs SOFC
 - 15-20% market expansion (SMR segment)
 - 20-30% improvement in homepage engagement
 

@@ -18,7 +18,7 @@ export default function Navigation() {
   ];
 
   const whyHorizon = [
-    { name: '90-Day Time to Market', href: '/why/time-to-market', icon: '🚀' },
+    { name: '4-Month Time to Market', href: '/why/time-to-market', icon: '🚀' },
     { name: 'Five 9s Reliability', href: '/why/reliability', icon: '🎯' },
     { name: 'Zero Emissions', href: '/why/environmental', icon: '🌍' },
   ];
@@ -204,11 +204,11 @@ export default function Navigation() {
 
             {/* CTA Button with power-up effect */}
             <Link
-              href="/calculators/roi"
+              href="/contact"
               className="relative bg-[#00D9E8] text-[#1A2332] px-6 py-2.5 rounded-lg font-semibold overflow-hidden btn-power-up hover-scale-sm group"
             >
               <span className="relative z-10 flex items-center">
-                Calculate ROI
+                Get Started
                 <svg
                   className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform duration-300"
                   fill="none"
@@ -335,11 +335,11 @@ export default function Navigation() {
                 mobileMenuOpen ? 'translate-x-0 opacity-100' : '-translate-x-4 opacity-0'
               }`} style={{ transitionDelay: `${(solutions.length + whyHorizon.length + resources.length + 2) * 50}ms` }}>
                 <Link
-                  href="/calculators/roi"
+                  href="/contact"
                   className="block text-center bg-[#00D9E8] text-[#1A2332] px-6 py-2.5 rounded-lg font-semibold hover:bg-[#00B8C5] transition-colors duration-200"
                   onClick={() => setMobileMenuOpen(false)}
                 >
-                  Calculate ROI
+                  Get Started
                 </Link>
               </div>
             </div>

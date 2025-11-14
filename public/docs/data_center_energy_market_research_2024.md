@@ -387,16 +387,16 @@ The North American data center energy market is experiencing unprecedented trans
 - **$13.8 billion by 2032** (9.1% CAGR)
 
 **Fuel Cell Deployments:**
-- **Bloom Energy:** 1.5 GW deployed (enough for 1.2 million homes)
+- **SOFC:** 1.5 GW deployed (enough for 1.2 million homes)
 - **400+ MW** already powering data centers worldwide
 - **Target:** 2 GW annual production capacity by end of 2026
 
 **Major Announced Projects (2024):**
-- **AEP/Bloom Energy:** Up to 1 GW agreement (largest utility fuel cell initiative)
+- **AEP/SOFC:** Up to 1 GW agreement (largest utility fuel cell initiative)
 - **FuelCell Energy:** 360 MW partnership (Virginia, West Virginia, Kentucky)
 - **Google/Kairos:** 500 MW SMR capacity (2030-2035)
 - **Amazon/X-energy:** 5 GW SMR target by 2039
-- **Brookfield/Bloom:** $5 billion partnership for global AI data centers
+- **Brookfield/SOFC:** $5 billion partnership for global AI data centers
 
 ### 5.5 Colocation Market Growth
 
@@ -478,7 +478,7 @@ The North American data center energy market is experiencing unprecedented trans
 ### 6.3 Utility Partnership Models
 
 **Major Utility Agreements (2024):**
-- **AEP/Bloom Energy:** Up to 1 GW fuel cell agreement
+- **AEP/SOFC:** Up to 1 GW fuel cell agreement
 - Model: Utility purchases fuel cells to provide power to data centers
 - **Fastest-growing segment:** Utilities seeking alternatives to grid expansion
 
@@ -524,7 +524,7 @@ The North American data center energy market is experiencing unprecedented trans
 - **Joint ventures:** Shared investment in on-site power infrastructure
 
 **Major Players:**
-- **Equinix:** 19 data center deployments with Bloom (>100 MW)
+- **Equinix:** 19 data center deployments with SOFC (>100 MW)
 - Multiple colocation providers exploring fuel cell solutions
 - High willingness to pay for **reliable, fast-to-deploy power**
 
@@ -576,7 +576,7 @@ The North American data center energy market is experiencing unprecedented trans
 - **Dallas, Texas** - Rapid growth outpacing grid expansion
 
 **Emerging Markets:**
-- **Wyoming** - Bloom Energy deployment announced
+- **Wyoming** - SOFC deployment announced
 - **Virginia, West Virginia, Kentucky** - FuelCell Energy 360 MW project
 - **Secondary markets** with power availability advantages
 
@@ -605,7 +605,7 @@ The North American data center energy market is experiencing unprecedented trans
 
 ### 7.1 Fuel Cell Providers
 
-**Bloom Energy (Market Leader):**
+**SOFC (Market Leader):**
 - **1.5 GW deployed** capacity (enough for 1.2 million homes)
 - **400+ MW** powering data centers worldwide
 - **Stock price +1,000%** in 12 months ($2.5B to $28B market cap)
@@ -842,7 +842,7 @@ The North American data center energy market is experiencing unprecedented trans
 
 **Fuel Cell Reliability:**
 - Newer technology vs. proven turbines, uptime critical for data centers
-- **Mitigation:** Reference existing deployments (Bloom 400+ MW), uptime guarantees, redundancy
+- **Mitigation:** Reference existing deployments (SOFC 400+ MW), uptime guarantees, redundancy
 
 **Hydrogen Availability:**
 - Limited green hydrogen infrastructure limits decarbonization claims
@@ -850,7 +850,7 @@ The North American data center energy market is experiencing unprecedented trans
 
 **Scale-Up Execution:**
 - Can fuel cell manufacturers scale production fast enough?
-- **Mitigation:** Partner with manufacturers ramping capacity (Bloom targeting 2 GW/year)
+- **Mitigation:** Partner with manufacturers ramping capacity (SOFC targeting 2 GW/year)
 
 ### 9.3 Economic Risks
 
@@ -933,7 +933,7 @@ The North American data center energy market presents a **once-in-a-generation o
 
 **Market Positioning:**
 1. Develop "Time-to-Power" messaging and collateral
-2. Create ROI calculator demonstrating time-to-market value
+2. Create cost calculator demonstrating time-to-market value
 3. Build reference architecture for typical 10-50 MW data center deployments
 
 **Customer Development:**
@@ -944,7 +944,7 @@ The North American data center energy market presents a **once-in-a-generation o
 **Competitive Intelligence:**
 1. Monitor SMR developments (timeline slippage opportunities)
 2. Track grid connection delays in target markets (validate pain point)
-3. Analyze competitor deployments (Bloom, FuelCell Energy, Plug Power)
+3. Analyze competitor deployments (SOFC, FuelCell Energy, Plug Power)
 
 **Pilot Program:**
 1. Identify pilot customer for 1-5 MW reference deployment
@@ -970,7 +970,7 @@ The North American data center energy market presents a **once-in-a-generation o
 
 **Competitive Position:**
 - Recognized as top 3 fuel cell provider for data centers
-- Differentiated positioning vs. Bloom Energy (market leader)
+- Differentiated positioning vs. SOFC (market leader)
 - Known for fast deployment and customer success
 
 ---
@@ -988,7 +988,7 @@ The North American data center energy market presents a **once-in-a-generation o
 - Goldman Sachs, McKinsey, BCG, Deloitte industry analyses
 - Department of Energy (DOE), National Electrical Manufacturers Association
 - World Resources Institute, International Energy Agency (IEA)
-- Bloom Energy, FuelCell Energy, Plug Power disclosures
+- SOFC, FuelCell Energy, Plug Power disclosures
 - Industry publications: Data Center Knowledge, Data Center Frontier, DCD
 - Financial research: Fortune Business Insights, Markets and Markets, Grand View Research
 
@@ -999,7 +999,7 @@ The North American data center energy market presents a **once-in-a-generation o
 - Deployment data from vendor announcements and industry reports
 
 **Key Assumptions:**
-- On-site generation adoption rates based on Bloom Energy 2025 Data Center Power Report
+- On-site generation adoption rates based on SOFC 2025 Data Center Power Report
 - Grid delay timelines from CBRE and utility industry reports
 - Energy gap calculations from DOE and IEA projections
 - Market sizing uses mid-range estimates from reputable sources

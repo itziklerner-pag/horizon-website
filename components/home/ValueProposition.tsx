@@ -27,7 +27,7 @@ export function ValueProposition() {
   const values = [
     {
       icon: '🚀',
-      title: '90-Day Deployment',
+      title: '4-Month Deployment',
       description: 'Pre-engineered systems ship and install in weeks. Eliminate 18-48 month grid delays and start generating revenue immediately.',
       stats: ['Plug-and-play design', 'Modular scaling', 'Pre-certified'],
       gradient: 'from-purple-500 to-pink-500',
@@ -45,17 +45,17 @@ export function ValueProposition() {
       icon: '🌍',
       title: 'Zero Emissions',
       description: 'Pure hydrogen fuel cells produce only electricity and water. Renewable hydrogen pathway to 100% carbon-free operations.',
-      stats: ['0g CO₂', 'Silent operation', 'EPA compliant'],
+      stats: ['0g CO₂', 'Silent operation', 'CARB compliant'],
       gradient: 'from-green-500 to-emerald-500',
       href: '/why/environmental',
     },
     {
       icon: '💰',
       title: 'Lower TCO',
-      description: '25-35% lower total cost vs diesel+grid. Predictable energy costs with no peak demand charges.',
+      description: '25-35% lower total cost vs diesel+grid. At scale, operational costs target sub 10 cents per kWh, similar to lower-end grid costs.',
       stats: ['No demand charges', '20-year lifespan', 'Tax incentives'],
       gradient: 'from-orange-500 to-red-500',
-      href: '/calculators/roi',
+      href: '/contact',
     },
     {
       icon: '🤝',

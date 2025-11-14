@@ -4,7 +4,7 @@
 
 **Prepared:** January 2025
 **Scope:** Strategic website for US/Canada data center energy market
-**Primary Competitor:** Bloom Energy
+**Primary Competitor:** SOFC
 
 ---
 
@@ -20,7 +20,7 @@
 **"AI workload boom + grid constraints = Power is the #1 bottleneck for data center expansion"**
 
 **Our Strategic Positioning:**
-> "From PO to Power-On in 90 Days — Deploy Your Data Center in Months, Not Years"
+> "From Deployment start in 90 Days — Deploy Your Data Center in Months, Not Years"
 
 ---
 
@@ -61,7 +61,7 @@
 
 ## 3. COMPETITIVE DIFFERENTIATION
 
-### Bloom Energy's Vulnerabilities
+### SOFC's Vulnerabilities
 
 | Weakness | Our Opportunity |
 |----------|-----------------|
@@ -75,10 +75,10 @@
 
 ### Key Competitive Messages
 
-**When competing against Bloom Energy:**
+**When competing against SOFC:**
 
 1. **"We serve businesses like yours, not just Fortune 100"**
-   95% of companies can't afford Bloom's $700K minimum. We start at accessible entry points.
+   95% of companies can't afford SOFC's $700K minimum. We start at accessible entry points.
 
 2. **"Deploy in weeks, not quarters"**
    Their 90-day claim is best-case for massive projects. We deploy modular systems in 1-4 weeks with transparent timelines.
@@ -98,7 +98,7 @@
 **Accents:** Platinum (#E5E7EB), Charcoal (#3D4551), Mint (#D4F4DD)
 
 **Rationale:**
-- Differentiates from Bloom's green/navy and oversaturated tech blue
+- Differentiates from SOFC's green/navy and oversaturated tech blue
 - Cyan evokes hydrogen (H2O), energy, innovation
 - Premium feel meeting Fortune 500 expectations
 - Excellent accessibility (14.5:1 contrast ratio)
@@ -109,7 +109,7 @@
 
 **Rationale:**
 - Modern, readable, free to license
-- Differentiates from Bloom's Roboto
+- Differentiates from SOFC's Roboto
 - Technical precision with human approachability
 
 ### Photography Style: "Verified Power"
@@ -158,7 +158,7 @@ Technology
 Resources
 ├── Blog (2-3 posts/week)
 ├── Whitepapers (8 priority topics)
-├── ROI Calculator
+├── Cost Calculator
 ├── Deployment Timeline Tool
 ├── Comparison Guides
 └── Video Library
@@ -204,7 +204,7 @@ Headline: "Grid Delays Are Killing Your Expansion Timeline"
 
 **Section 4: The Solution (Differentiation)**
 Three-column comparison:
-| Traditional Grid | Bloom Energy | Horizon Fuel Cells |
+| Traditional Grid | SOFC | Horizon Fuel Cells |
 | 18-48 months | 90+ days | **90 days or less** |
 | Location-constrained | $700K minimum | **Modular, scalable** |
 | Emissions vary | Natural gas today | **Hydrogen-first** |
@@ -223,7 +223,7 @@ Featured case study with metrics:
 - Solution deployed
 - Quantified results (uptime %, cost savings, emissions reduction)
 
-**Section 7: Interactive ROI Calculator**
+**Section 7: Interactive Cost Calculator**
 Embedded tool:
 - Input: Power requirement (MW), location, timeline urgency
 - Output: TCO comparison, deployment timeline, emissions savings
@@ -239,7 +239,7 @@ Latest blog posts, whitepapers, videos
 
 ### 5.3 Key Interactive Tools (Lead Magnets)
 
-#### Tool 1: ROI Calculator
+#### Tool 1: Cost Calculator
 **Purpose:** Demonstrate TCO advantage over grid + diesel backup
 **Inputs:** Power requirement, location, current energy source, timeline
 **Outputs:** 15-year TCO comparison, payback period, emissions savings
@@ -268,7 +268,7 @@ Latest blog posts, whitepapers, videos
 
 **Week 3-6: Trust Building**
 - 5 detailed case studies (15-page technical versions)
-- ROI calculator (interactive tool)
+- cost calculator (interactive tool)
 - Technical specifications hub
 - Video: "Inside Horizon Fuel Cells" (5-min explainer)
 
@@ -278,7 +278,7 @@ Latest blog posts, whitepapers, videos
   2. "90-Day Deployment Guide for Hyperscale Data Centers"
   3. "Total Cost of Ownership: Fuel Cells vs. Grid + Diesel Backup"
 - Deployment timeline tool
-- Comparison guide: "Horizon vs. Bloom Energy vs. Traditional Solutions"
+- Comparison guide: "Horizon vs. SOFC vs. Traditional Solutions"
 - Customer testimonial videos (3-5 interviews)
 
 ---
@@ -286,7 +286,7 @@ Latest blog posts, whitepapers, videos
 ## 6. MESSAGING PILLARS
 
 ### Pillar 1: SPEED (Primary Differentiator)
-**Headline:** "From PO to Power-On in 90 Days"
+**Headline:** "From Deployment start in 90 Days"
 
 **Supporting Messages:**
 - "Deploy in months, not years: 90 days vs. 18-48 month grid delays"
@@ -415,7 +415,7 @@ Target 15 key markets with location-specific landing pages:
 - Talk to Specialist (phone or video call)
 
 **Tier 2: Mid-Intent (Nurture Required)**
-- ROI Calculator (email capture for detailed PDF)
+- Cost Calculator (email capture for detailed PDF)
 - Deployment Timeline Tool (email capture)
 - Webinar Registration (quarterly technical webinars)
 
@@ -427,7 +427,7 @@ Target 15 key markets with location-specific landing pages:
 ### Lead Scoring System (0-200 Points)
 
 **Behavioral Scoring:**
-- ROI Calculator use: +50 points
+- Cost Calculator use: +50 points
 - Case study download: +25 points
 - Pricing page visit: +30 points
 - Return website visitor (3+ sessions): +20 points
@@ -452,7 +452,7 @@ Target 15 key markets with location-specific landing pages:
 2. Educational: "The Data Center Power Crisis Explained" (Day 2)
 3. Solution Overview: "How Fuel Cells Solve Your Timeline Problem" (Day 5)
 4. Social Proof: "See How [Customer A] Deployed in 90 Days" (Day 9)
-5. CTA: "Ready to Explore? Use Our ROI Calculator" (Day 14)
+5. CTA: "Ready to Explore? Use Our Cost Calculator" (Day 14)
 
 **Campaign 2: Case Study Deep-Dive (6 emails over 21 days)**
 - Each email highlights one case study with challenge-solution-results
@@ -673,7 +673,7 @@ Technology ▼
 Resources ▼
 ├── Blog
 ├── Whitepapers
-├── ROI Calculator
+├── Cost Calculator
 ├── Timeline Tool
 └── Videos
 
@@ -726,13 +726,13 @@ Operating Hrs |  Fleet Uptime |  Deployed     |  Avg Deploy
 #### Component 3: Comparison Table
 ```
 3-column responsive table:
-- Column headers: Traditional Grid | Bloom Energy | Horizon (highlighted)
+- Column headers: Traditional Grid | SOFC | Horizon (highlighted)
 - Row categories: Deployment Time, Cost, Scalability, Emissions
 - Visual indicators: ✗ (red) / ✓ (green) / ⚡ (Electric Cyan for Horizon advantages)
 - Mobile: Accordion format (tap to expand each row)
 ```
 
-#### Component 4: Interactive ROI Calculator
+#### Component 4: Interactive Cost Calculator
 ```
 Layout:
 - Left panel: Input form (power requirement, location, timeline)
@@ -980,7 +980,7 @@ Checkbox/Radio:
 - [ ] Create case study hub page
 
 **Week 9-10: Interactive Tools**
-- [ ] Develop ROI Calculator (frontend + backend)
+- [ ] Develop Cost Calculator (frontend + backend)
 - [ ] Develop Deployment Timeline Tool
 - [ ] Create Technical Specifications hub
 - [ ] Integrate with CRM (lead capture)
@@ -1049,7 +1049,7 @@ Checkbox/Radio:
 - Blog traffic: X,XXX visitors per month
 - Whitepaper downloads: XXX per month
 - Video views: X,XXX per month (>50% completion rate)
-- ROI Calculator usage: XXX sessions per month
+- Cost Calculator usage: XXX sessions per month
 
 **SEO Performance:**
 - Organic traffic: XX,XXX visitors per month (XX% growth QoQ)
@@ -1132,8 +1132,8 @@ Checkbox/Radio:
 - Content mapped to buying journey stages
 
 **3. Transparent, Self-Service Approach**
-- ROI Calculator and Timeline Tool lower friction
-- Differentiates from Bloom's opaque, sales-gated process
+- Cost Calculator and Timeline Tool lower friction
+- Differentiates from SOFC's opaque, sales-gated process
 - Builds trust and reduces sales cycle length
 
 **4. Speed-to-Relevance**
@@ -1144,7 +1144,7 @@ Checkbox/Radio:
 **5. Premium-But-Accessible Brand**
 - Sophisticated enough for Fortune 500
 - Approachable enough for mid-market
-- Differentiates from Bloom's corporate coldness
+- Differentiates from SOFC's corporate coldness
 
 **6. Proof-First Approach**
 - Third-party verified data (not marketing claims)
@@ -1153,7 +1153,7 @@ Checkbox/Radio:
 
 ### Key Risks & Mitigations
 
-**Risk 1: Bloom Energy's brand dominance**
+**Risk 1: SOFC's brand dominance**
 *Mitigation:* Focus on underserved mid-market, transparent pricing, speed advantage
 
 **Risk 2: Long sales cycles (12-18 months)**
@@ -1229,7 +1229,7 @@ All supporting research documents have been saved to `/home/mm/dev/horizon/`:
    - Competitive landscape
 
 2. **`bloom-energy-competitive-analysis.md`** (Competitive Intelligence)
-   - Bloom Energy's vulnerabilities
+   - SOFC's vulnerabilities
    - Differentiation opportunities
    - Battle cards for sales team
    - Positioning strategies
@@ -1301,12 +1301,12 @@ Don't optimize for a single decision-maker. All 4 personas must be satisfied or 
 Lead with 90-day deployment everywhere. Make speed comparison impossible to miss.
 
 **5. Self-Service Tools**
-ROI Calculator and Timeline Tool are highest priority. They qualify leads and reduce sales friction.
+Cost Calculator and Timeline Tool are highest priority. They qualify leads and reduce sales friction.
 
 ### What NOT to Do
 
 **❌ Don't compete on enterprise scale**
-Bloom wins that battle. Target mid-market and emphasize accessibility.
+SOFC wins that battle. Target mid-market and emphasize accessibility.
 
 **❌ Don't use technical jargon**
 "Scandia-stabilized zirconia electrolyte" alienates buyers. Use plain language.

@@ -8,13 +8,13 @@ import RiskMitigation from './components/RiskMitigation';
 import InteractiveTimelineTool from './components/InteractiveTimelineTool';
 
 export const metadata: Metadata = {
-  title: '90 Days From PO to Power-On | Horizon Fuel Cell',
-  description: 'Deploy data center backup power in 90 days. Learn how our proven 4-phase process accelerates your time to market.',
+  title: 'Deployment Start as Low as 4 Months | Horizon Fuel Cell',
+  description: 'Deploy data center backup power in as little as 4 months. Learn how our proven 4-phase process accelerates your time to market.',
 };
 
 export default function TimeToMarketPage() {
   const heroStats = [
-    { value: '90', label: 'Days to Deployment', suffix: '' },
+    { value: '4', label: 'Months to Deployment', suffix: '' },
     { value: '60', label: 'Faster Than Diesel', suffix: '%' },
     { value: '100', label: 'Projects Completed', suffix: '+' },
     { value: '4', label: 'Phase Process', suffix: '' },
@@ -23,9 +23,9 @@ export default function TimeToMarketPage() {
   return (
     <main className="min-h-screen bg-white">
       <WhyHero
-        title="90 Days From PO to Power-On: How We Do It"
+        title="Deployment Start as Low as 4 Months: How We Do It"
         subtitle="Time to Market Advantage"
-        description="In an industry where speed equals competitive advantage, waiting 6-12 months for backup power is unacceptable. We deliver fully operational fuel cell systems in 90 days—guaranteed."
+        description="In an industry where speed equals competitive advantage, waiting 6-12 months for backup power is unacceptable. We deliver fully operational fuel cell systems in as little as 4 months—accelerating your time to revenue."
         stats={heroStats}
         backgroundVariant="cyan"
       />
@@ -108,7 +108,7 @@ function TimeProblemSection() {
             </div>
             <div>
               <h3 className="text-2xl font-bold text-[#1A2332] mb-3">
-                The Horizon Solution: Predictable 90-Day Deployment
+                The Horizon Solution: Fast 4-Month Deployment
               </h3>
               <p className="text-lg text-gray-700 mb-4">
                 Our fuel cell systems are modular, pre-certified, and don't require utility connections.
@@ -137,7 +137,7 @@ function TimeProblemSection() {
                   <svg className="w-5 h-5 text-[#00D9E8]" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                   </svg>
-                  <span className="text-gray-700">Guaranteed delivery timeline</span>
+                  <span className="text-gray-700">Predictable delivery timeline</span>
                 </div>
               </div>
             </div>
@@ -166,10 +166,10 @@ function FinalCTA() {
             Request Deployment Plan
           </Link>
           <Link
-            href="/calculators/roi"
+            href="/resources"
             className="px-8 py-4 bg-white/10 text-white font-semibold rounded-lg hover:bg-white/20 transition-colors border border-white/20"
           >
-            Calculate Your Savings
+            Download Resources
           </Link>
         </div>
       </div>

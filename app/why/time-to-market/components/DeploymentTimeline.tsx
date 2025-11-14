@@ -27,7 +27,7 @@ export default function DeploymentTimeline() {
   const phases = [
     {
       phase: 'Phase 1',
-      days: 'Days 1-30',
+      days: 'Months 1-2',
       title: 'Site Assessment & Design',
       icon: '📋',
       color: '#00D9E8',
@@ -46,7 +46,7 @@ export default function DeploymentTimeline() {
     },
     {
       phase: 'Phase 2',
-      days: 'Days 31-60',
+      days: 'Months 2-3',
       title: 'Manufacturing & Pre-Configuration',
       icon: '🏭',
       color: '#00C896',
@@ -65,7 +65,7 @@ export default function DeploymentTimeline() {
     },
     {
       phase: 'Phase 3',
-      days: 'Days 61-80',
+      days: 'Month 3-4',
       title: 'Delivery & Installation',
       icon: '🚚',
       color: '#4DE4EF',
@@ -84,7 +84,7 @@ export default function DeploymentTimeline() {
     },
     {
       phase: 'Phase 4',
-      days: 'Days 81-90',
+      days: 'Month 4',
       title: 'Commissioning & Go-Live',
       icon: '⚡',
       color: '#00D9E8',
@@ -225,10 +225,10 @@ export default function DeploymentTimeline() {
             </div>
             <div>
               <h3 className="text-xl font-bold text-[#1A2332] mb-2">
-                Guaranteed Timeline Commitment
+                Predictable Timeline Commitment
               </h3>
               <p className="text-gray-700">
-                We commit to the 90-day timeline in writing. If we miss it, you receive a service credit.
+                We work with you to establish a realistic deployment timeline based on your specific requirements.
                 Over 95% of our installations are completed on or ahead of schedule.
               </p>
             </div>

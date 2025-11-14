@@ -16,7 +16,7 @@ This analysis compares the **existing website structure** against the **updated 
 - **NEW Major Feature:** SMR (Steam Methane Reforming) integration requires dedicated technical specifications, comparison tables, and solution pathways
 - **Content Refinement:** Uptime messaging upgraded from "99.99% (four nines)" to "99.99%+ with N+1 redundancy"
 - **Deployment Timeline:** Messaging refined to "4 months" (pure H2) vs "4-6 months" (SMR) for accuracy
-- **Competitive Positioning:** Enhanced Bloom Energy differentiation content needed
+- **Competitive Positioning:** Enhanced SOFC differentiation content needed
 - **Technical Depth:** More detailed specifications for both pure hydrogen and SMR solutions required
 
 **Implementation Scope:**
@@ -67,7 +67,7 @@ export default function SMRIntegratedPage() {
 
   // Comparison: SMR vs Pure H2 vs Diesel
   // Use Case Fit Analysis
-  // ROI Calculator (SMR-specific)
+  // Cost Calculator (SMR-specific)
   // Case Study Section
   // CTA: "Evaluate SMR for Your Facility"
 }
@@ -119,7 +119,7 @@ export default function SMRIntegratedPage() {
 **Purpose:** Direct competitive comparison landing page (SEO + conversion)
 
 **Content Structure:**
-- Hero: "Horizon vs Bloom Energy: What's the Difference?"
+- Hero: "Horizon vs SOFC: What's the Difference?"
 - Technology comparison (PEM vs SOFC)
 - Deployment speed comparison (4 months vs 6-12 months)
 - Fuel flexibility comparison
@@ -131,9 +131,9 @@ export default function SMRIntegratedPage() {
 **Complexity:** Medium (4 days)
 
 **SEO Keywords:**
-- "Horizon vs Bloom Energy"
+- "Horizon vs SOFC"
 - "PEM vs SOFC fuel cells"
-- "Bloom Energy alternative"
+- "SOFC alternative"
 - "Hydrogen fuel cell comparison"
 
 ---
@@ -191,7 +191,7 @@ export default function SMRIntegratedPage() {
 **Purpose:** Hub for all comparison guides
 
 **Content:**
-- Horizon vs Bloom Energy
+- Horizon vs SOFC
 - Horizon vs Diesel Generators
 - Horizon vs Grid + Backup
 - Horizon vs SMRs (Small Modular Reactors)
@@ -302,14 +302,14 @@ const solutions = [
 
 **Current Headline:**
 ```typescript
-<h1>From PO to Power-On in 90 Days</h1>
+<h1>From Deployment start in 90 Days</h1>
 <p>Eliminate the 18-48 month grid connection bottleneck.
 Deploy zero-emission fuel cell power with 99.999% uptime.</p>
 ```
 
 **Updated Headline (Per Strategy):**
 ```typescript
-<h1>From PO to Power-On in{' '}
+<h1>From Deployment start in{' '}
   <span className="text-gradient-animated">4 Months</span>
 </h1>
 <p>Eliminate the 18-48 month grid connection bottleneck.
@@ -411,7 +411,7 @@ interface TechnicalSpecsProps {
   specSet={{
     type: 'both',
     pureH2Specs: [
-      { label: 'Power Output', value: '200kW-MW+', unit: '' },
+      { label: 'Power Output', value: '1.5MW-multi-GW', unit: '' },
       { label: 'Efficiency', value: '50-60%', unit: 'LHV' },
       { label: 'Deployment', value: '4', unit: 'months' },
       { label: 'Uptime', value: '99.99%', unit: 'with N+1' },
@@ -503,10 +503,9 @@ const rows: ComparisonRow[] = [
 
 ---
 
-### 2.7 ROI Calculator Updates
+### 2.7 Cost Calculator Updates
 
 **File:** `/Users/itziklerner/dev/horizon-website/components/home/ROICalculatorPreview.tsx`
-**Full Calculator:** `/Users/itziklerner/dev/horizon-website/app/calculators/roi/page.tsx`
 
 **Required Changes:**
 - Add toggle for "Pure Hydrogen" vs "SMR-Integrated"
@@ -593,7 +592,7 @@ const footerSections = [
       { name: "4-Month Deployment", href: "/why/time-to-market" }, // Updated
       { name: "99.99% Uptime (N+1)", href: "/why/reliability" }, // Updated
       { name: "Zero On-Site Emissions", href: "/why/environmental" }, // Updated
-      { name: "vs Bloom Energy", href: "/vs/bloom-energy" }, // NEW
+      { name: "vs SOFC", href: "/vs/bloom-energy" }, // NEW
     ]
   },
   // ... Resources, Company sections
@@ -659,7 +658,7 @@ const footerSections = [
 **Comparison:**
 - Horizon Pure H2: 4 months
 - Horizon SMR: 4-6 months
-- Bloom Energy: 6-12 months
+- SOFC: 6-12 months
 - Grid Connection: 18-48 months
 - Diesel Generators: 2-4 weeks (but backup only)
 
@@ -745,7 +744,7 @@ const footerSections = [
 
 **Purpose:** Side-by-side card comparison for competitive pages
 
-**Example: Horizon vs Bloom Energy**
+**Example: Horizon vs SOFC**
 
 ```typescript
 <ComparisonCards
@@ -763,7 +762,7 @@ const footerSections = [
     cta: "Choose Horizon"
   }}
   competitor={{
-    title: "Bloom Energy",
+    title: "SOFC",
     features: [
       { label: "Technology", value: "SOFC (Solid Oxide)" },
       { label: "Fuel", value: "Natural Gas (hydrogen-ready)" },
@@ -918,7 +917,7 @@ export interface CompetitorComparison {
 }
 
 export const bloomEnergyComparison: CompetitorComparison = {
-  competitor: "Bloom Energy",
+  competitor: "SOFC",
   technology: {
     type: "SOFC (Solid Oxide Fuel Cell)",
     description: "High-temperature ceramic fuel cells operating at 800-1000°C on natural gas"
@@ -939,16 +938,16 @@ export const bloomEnergyComparison: CompetitorComparison = {
   ],
   idealUseCase: [
     "Existing natural gas infrastructure with utility incentives",
-    "California markets with Bloom relationships",
+    "California markets with SOFC relationships",
     "Lower initial sustainability requirements"
   ],
-  pricingModel: "Opaque, sales-gated. $700K-800K per 100kW estimated.",
+  pricingModel: "Opaque, sales-gated. $700K-800K per 1.5MW continuous power, 3MW peak power estimated.",
   deploymentTime: "6-12 months",
   uptime: "99.9% (three nines)",
   emissions: "CO₂ emissions from natural gas combustion",
   sourceUrls: [
     "/public/docs/bloom-energy-competitive-analysis.md",
-    "/updated_strategy/Bloom_Energy_Competitive_Analysis_Updated.md"
+    "/updated_strategy/SOFC_Energy_Competitive_Analysis_Updated.md"
   ]
 };
 
@@ -1135,7 +1134,7 @@ export function generateSolutionMetadata(solutionType: string) {
   const metadata = {
     'pure-hydrogen': {
       title: 'Pure Hydrogen Fuel Cell Solutions | Zero On-Site Emissions',
-      description: '99.99% uptime with N+1 redundancy. Deploy in 4 months. Pure hydrogen fuel cells for data centers with zero on-site emissions.',
+      description: '99.99% uptime with N+1 redundancy. Deployment start as low as 4 months. Pure hydrogen fuel cells for data centers with zero on-site emissions.',
       keywords: ['pure hydrogen fuel cell', 'zero emission power', 'PEM fuel cell', 'data center hydrogen'],
       openGraph: {
         title: 'Pure Hydrogen Fuel Cell Solutions - Horizon',
@@ -1175,7 +1174,7 @@ export const trackingEvents = {
     properties: ['recommendation', 'questions_answered']
   },
 
-  // ROI Calculator
+  // Cost Calculator
   'roi_calculator_used': {
     properties: ['solution_type', 'power_requirement', 'result_tco']
   },
@@ -1239,10 +1238,10 @@ export const trackingEvents = {
 | Pure hydrogen deep-dive page | 3 days | P1 |
 | SMR integration tech page | 5 days | P1 |
 | N+1 redundancy page | 2 days | P1 |
-| Bloom Energy comparison page | 4 days | P1 |
+| SOFC comparison page | 4 days | P1 |
 | SMR vs Pure H2 decision page | 3 days | P1 |
 | Solution selector quiz component | 3 days | P1 |
-| ROI calculator updates (SMR support) | 4 days | P1 |
+| cost calculator updates (SMR support) | 4 days | P1 |
 | **SUBTOTAL** | **27 days** | **~5 weeks** |
 
 ---
@@ -1357,15 +1356,15 @@ export const trackingEvents = {
 **Week 5:**
 - ✅ Complete SMR integration tech page
 - ✅ N+1 redundancy page
-- ✅ Start Bloom Energy comparison page
+- ✅ Start SOFC comparison page
 
 **Week 6:**
-- ✅ Complete Bloom Energy comparison page
+- ✅ Complete SOFC comparison page
 - ✅ SMR vs Pure H2 decision page
 - ✅ Solution selector quiz component
 
 **Week 7:**
-- ✅ ROI calculator updates (SMR support)
+- ✅ cost calculator updates (SMR support)
 - ✅ Competitive comparison cards component
 - ✅ QA Phase 2 changes
 - ✅ Deploy Phase 2 to production
@@ -1373,8 +1372,8 @@ export const trackingEvents = {
 **Deliverables:**
 1. Complete technology section (/technology/*)
 2. Interactive solution selector
-3. Updated ROI calculator with SMR
-4. Bloom Energy comparison page
+3. Updated cost calculator with SMR
+4. SOFC comparison page
 5. Enhanced competitive positioning
 
 ---
@@ -1450,7 +1449,6 @@ export const trackingEvents = {
 /components/home/ROICalculatorPreview.tsx (add SMR toggle)
 /components/solutions/TechnicalSpecs.tsx (support H2 vs SMR)
 /components/solutions/ComparisonTable.tsx (add SMR column)
-/app/calculators/roi/page.tsx (add SMR calculations)
 /components/home/IndustryChallenges.tsx (add SMR benefits)
 /components/home/FinalCTA.tsx (add solution type context)
 ```
@@ -1519,7 +1517,7 @@ export const trackingEvents = {
 
 **Integration Tests:**
 - Solution selector quiz flow
-- ROI calculator with SMR toggle
+- cost calculator with SMR toggle
 - Regional data fetching
 
 **E2E Tests (Playwright):**
@@ -1585,7 +1583,7 @@ export const trackingEvents = {
 - Consider third-party libraries (Recharts, D3.js) for faster implementation
 - MVP first, enhance later
 
-**Risk:** ROI calculator logic may be inaccurate for SMR
+**Risk:** cost calculator logic may be inaccurate for SMR
 **Mitigation:**
 - Validate formulas with engineering team
 - Include assumptions/disclaimers
@@ -1661,7 +1659,7 @@ export const trackingEvents = {
 **SEO:**
 - Organic traffic to SMR pages: 500+/month by month 3
 - "SMR fuel cell" keyword ranking: Top 10
-- "Horizon vs Bloom Energy" ranking: Top 5
+- "Horizon vs SOFC" ranking: Top 5
 - Regional pages ranking in local searches
 
 **Competitive:**
@@ -1731,7 +1729,7 @@ export const trackingEvents = {
 **Before Phase 2:**
 - [ ] Pure hydrogen detailed specs
 - [ ] N+1 redundancy technical content
-- [ ] Bloom Energy comparison fact-checked
+- [ ] SOFC comparison fact-checked
 - [ ] Case studies for SMR deployments
 
 **Before Phase 3:**
@@ -1829,7 +1827,7 @@ The updated strategy documents introduce **significant new content** (SMR integr
 
 **Highest Impact Changes:**
 1. SMR solution pathway (new product line)
-2. Enhanced competitive positioning vs Bloom Energy
+2. Enhanced competitive positioning vs SOFC
 3. Technology deep-dive section
 4. Regional targeting pages
 5. Interactive solution selector
@@ -1863,7 +1861,7 @@ The updated strategy documents introduce **significant new content** (SMR integr
 
 1. **SMR Specifications:** Are all technical specs (temperature, efficiency, etc.) approved for public disclosure?
 
-2. **Competitive Claims:** Have competitive comparisons been legally reviewed? Any concerns with Bloom Energy statements?
+2. **Competitive Claims:** Have competitive comparisons been legally reviewed? Any concerns with SOFC statements?
 
 3. **Regional Data:** Do we have accurate data for all 5 priority regions, or should we start with fewer?
 
@@ -1883,13 +1881,13 @@ The updated strategy documents introduce **significant new content** (SMR integr
 
 **High-Risk Items Requiring Sign-Off:**
 
-1. **Competitive Content:** Direct Bloom Energy comparison may invite response. Legal review essential.
+1. **Competitive Content:** Direct SOFC comparison may invite response. Legal review essential.
 
 2. **Technical Specifications:** Public specs may reveal competitive info. Engineering approval required.
 
 3. **Regional Claims:** Grid delay timelines and emissions data must be defensible. Source citations needed.
 
-4. **ROI Calculator:** Financial projections carry liability. Disclaimers and assumptions required.
+4. **Cost Calculator:** Financial projections carry liability. Disclaimers and assumptions required.
 
 ---
 
@@ -1902,9 +1900,9 @@ The updated strategy documents introduce **significant new content** (SMR integr
 | Hero Messaging | High | Small | P0 | 1 |
 | Technical Specs Enhancement | High | Medium | P0 | 1 |
 | Technology Hub | High | Medium | P1 | 2 |
-| Bloom Comparison Page | High | Medium | P1 | 2 |
+| SOFC Comparison Page | High | Medium | P1 | 2 |
 | Solution Selector | High | Medium | P1 | 2 |
-| ROI Calculator (SMR) | High | Large | P1 | 2 |
+| Cost Calculator (SMR) | High | Large | P1 | 2 |
 | Regional Markets | Medium | Large | P2 | 3 |
 | SMR Architecture Diagram | Medium | Large | P2 | 3 |
 | Deployment Timeline Visual | Medium | Large | P2 | 3 |
@@ -1918,7 +1916,6 @@ The updated strategy documents introduce **significant new content** (SMR integr
 ```
 HeroSection (Modified)
 ├─ uses: Updated messaging
-└─ links: /calculators/roi, /technology/*
 
 Navigation (Modified)
 ├─ New: Technology dropdown
@@ -1971,10 +1968,10 @@ RegionalAvailabilityMap (New)
 - "hybrid hydrogen system"
 - "on-site hydrogen production"
 
-**Bloom Comparison Page:**
-- "Horizon vs Bloom Energy"
+**SOFC Comparison Page:**
+- "Horizon vs SOFC"
 - "PEM vs SOFC fuel cell"
-- "Bloom Energy alternative"
+- "SOFC alternative"
 - "fuel cell comparison data center"
 
 **Pure Hydrogen Page:**

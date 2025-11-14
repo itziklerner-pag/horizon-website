@@ -59,9 +59,9 @@ export function HeroSection() {
 
           {/* Main Headline with Kinetic Typography */}
           <h1 className={`text-5xl sm:text-6xl lg:text-7xl font-bold text-white mb-6 transition-all duration-1000 delay-200 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}>
-            From PO to Power-On in{' '}
+            Deployment start as low as{' '}
             <span className="text-gradient-animated inline-block relative">
-              90 Days
+              4 Months
               <span className="absolute -inset-1 bg-[#00D9E8] opacity-20 blur-xl animate-pulse"></span>
             </span>
           </h1>
@@ -77,10 +77,10 @@ export function HeroSection() {
           {/* CTA Buttons with power-up effect */}
           <div className={`flex flex-col sm:flex-row gap-4 justify-center items-center transition-all duration-1000 delay-600 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}>
             <Link
-              href="/calculators/roi"
+              href="/contact"
               className="group relative px-8 py-4 bg-[#00D9E8] text-[#1A2332] font-semibold rounded-lg overflow-hidden min-w-[200px] btn-power-up hover-scale-sm"
             >
-              <span className="relative z-10">Power Your Facility</span>
+              <span className="relative z-10">Get Started Today</span>
               {/* Animated gradient overlay on hover */}
               <div className="absolute inset-0 bg-gradient-to-r from-[#00D9E8] via-[#4DE4EF] to-[#00D9E8] opacity-0 group-hover:opacity-100 transition-opacity duration-300 animate-gradient" />
             </Link>
@@ -107,12 +107,12 @@ export function HeroSection() {
             <div className="text-center group hover-lift">
               <div className="relative inline-block">
                 <div className="text-4xl sm:text-5xl font-bold text-[#00D9E8] font-mono group-hover:scale-110 transition-transform duration-300">
-                  90
+                  4
                 </div>
                 {/* Glow effect on hover */}
                 <div className="absolute inset-0 bg-[#00D9E8] opacity-0 group-hover:opacity-30 blur-2xl transition-opacity duration-300"></div>
               </div>
-              <div className="text-sm sm:text-base text-gray-100 mt-2">Days to Deploy</div>
+              <div className="text-sm sm:text-base text-gray-100 mt-2">Months to Deploy</div>
               <div className="text-xs text-gray-300 mt-1">vs 18-48 month grid delays</div>
             </div>
 

@@ -25,7 +25,7 @@ This content strategy positions Horizon Fuel Cell as the premier provider of rap
 
 ### Primary Differentiator: Time to Market
 
-**Core Message:** "From PO to Power-On in 90 Days"
+**Core Message:** "From Deployment start in 90 Days"
 
 **Supporting Messages:**
 - Pre-engineered, modular systems eliminate custom engineering delays
@@ -155,7 +155,7 @@ Homepage
 │   │   ├── Whitepapers
 │   │   ├── Case Studies
 │   │   ├── Technical Briefs
-│   │   ├── ROI Calculators
+│   │   ├── Cost Calculators
 │   │   └── Video Library
 │   │
 │   ├── Industry Insights
@@ -200,7 +200,7 @@ Homepage
 **Hero Section (Above Fold)**
 - **Headline:** "Data Center Backup Power Deployed in 90 Days, Not 18 Months"
 - **Subheadline:** "Zero-emission fuel cell systems that meet your uptime requirements and regulatory deadlines—without the wait"
-- **CTA Primary:** "Get Your Custom Deployment Timeline" (leads to ROI calculator with timeline output)
+- **CTA Primary:** "Get Your Custom Deployment Timeline" (leads to cost calculator with timeline output)
 - **CTA Secondary:** "See Customer Results"
 - **Visual:** Split-screen comparison showing traditional diesel installation timeline vs. Horizon modular deployment, or time-lapse of Horizon installation
 
@@ -351,7 +351,7 @@ Homepage
 **Primary Goal:** Deep dive on speed differentiator with proof
 
 **Hero Section**
-- **Headline:** "90 Days From PO to Power-On: How We Do It"
+- **Headline:** "90 Days From Deployment start: How We Do It"
 - **Subheadline:** "Pre-engineered systems, proven processes, and relentless execution"
 
 **The Time Problem**
@@ -800,7 +800,7 @@ Homepage
    - Voltage regulation
    - Testing data
 
-#### Resources > Resource Library > ROI Calculators
+#### Resources > Resource Library > Cost Calculators
 
 **Primary Goal:** Generate high-intent leads by engaging users in value quantification
 
@@ -1012,7 +1012,7 @@ Homepage
    - Route to sales immediately
    - SLA: Contact within 4 hours
 
-2. **ROI Calculator with Download** - Score: 80 points
+2. **Cost Calculator with Download** - Score: 80 points
    - Financial evaluation phase
    - Route to inside sales for follow-up call
    - SLA: Contact within 24 hours
@@ -1141,7 +1141,7 @@ Homepage
 **Tactics:**
 - Gated whitepapers and case studies
 - Technical webinars with customer speakers
-- Interactive ROI calculators
+- Interactive cost calculators
 - Comparison guides (fuel cell vs. diesel vs. battery)
 - Retargeting ads to website visitors
 - Email nurture campaigns tailored by industry/role
@@ -1155,7 +1155,7 @@ Homepage
 
 **Conversion Mechanisms:**
 - Whitepaper downloads (gated)
-- ROI calculator engagement
+- cost calculator engagement
 - Case study library access
 - Technical brief downloads
 - Consultation request forms
@@ -1165,7 +1165,7 @@ Homepage
 **Campaign A: CFO/Financial Buyer Track** (5 emails over 3 weeks)
 1. Email 1 (Day 0): Welcome + "TCO Whitepaper" download confirmation
 2. Email 2 (Day 3): "See how [similar company] saved $4.2M" (case study)
-3. Email 3 (Day 7): "Calculate your savings" (ROI calculator CTA)
+3. Email 3 (Day 7): "Calculate your savings" (cost calculator CTA)
 4. Email 4 (Day 14): "Hidden costs of diesel backup power" (blog post)
 5. Email 5 (Day 21): "Schedule a cost analysis consultation" (meeting CTA)
 
@@ -1731,7 +1731,7 @@ Homepage
 **Content Strategy:**
 - Create dedicated landing pages for each high-intent keyword
 - Include clear CTAs (quote, consultation, demo)
-- Feature pricing indicators or ROI calculators
+- Feature pricing indicators or cost calculators
 - Showcase customer case studies and testimonials
 - Detailed product specifications
 
@@ -1757,7 +1757,7 @@ Homepage
 **Content Strategy:**
 - In-depth comparison articles (2,000-3,000 words)
 - Downloadable guides and whitepapers
-- Interactive tools (ROI calculators, comparison tables)
+- Interactive tools (cost calculators, comparison tables)
 - Case studies organized by topic
 - FAQ sections addressing common questions
 
@@ -2012,7 +2012,7 @@ Homepage
 ### Competitive SEO Analysis
 
 **Monitor Competitors:**
-- Bloom Energy
+- SOFC
 - FuelCell Energy
 - Plug Power
 - Doosan Fuel Cell
@@ -2268,7 +2268,7 @@ Homepage
    - Horizon's positioning on each criterion
 
 **Interactive Tools (Gated):**
-1. **"Advanced ROI Calculator: Fuel Cells vs. Alternatives"**
+1. **"Advanced Cost Calculator: Fuel Cells vs. Alternatives"**
    - Detailed inputs: power capacity, runtime requirements, electricity rates, fuel costs, maintenance budgets, installation timeline
    - Outputs: 15-year TCO comparison, NPV, IRR, payback period, yearly cash flows
    - Downloadable PDF report
@@ -2342,7 +2342,7 @@ Homepage
 **Campaign: "TCO Evaluator Track"** (for leads who downloaded TCO whitepaper)
 1. Email 1 (Day 0): Thank you + whitepaper download confirmation
 2. Email 2 (Day 2): "See how [Company] saved $4.2M over 10 years" (case study)
-3. Email 3 (Day 5): "Interactive ROI Calculator: See your potential savings" (tool)
+3. Email 3 (Day 5): "Interactive Cost Calculator: See your potential savings" (tool)
 4. Email 4 (Day 9): "Hidden costs of diesel: What most analyses miss" (blog post)
 5. Email 5 (Day 14): "Customer testimonial: Why we chose fuel cells over diesel" (video)
 6. Email 6 (Day 21): "Schedule your custom ROI analysis" (consultation CTA)
@@ -2365,7 +2365,7 @@ Homepage
 
 **Lead Scoring for Consideration Stage:**
 - Downloaded multiple whitepapers: +20 points
-- Used ROI calculator: +30 points
+- Used cost calculator: +30 points
 - Attended webinar: +25 points
 - Multiple page visits (5+ solution/product pages): +15 points
 - Repeat visitor (3+ visits): +20 points
@@ -2644,7 +2644,7 @@ Homepage
 
 **Quarterly Content Initiatives:**
 - Major thought leadership report or industry study
-- Updated ROI calculators and interactive tools
+- Updated cost calculators and interactive tools
 - Refreshed case studies with new customer results
 - New webinar series launch
 - Trade show content and collateral
@@ -2885,7 +2885,7 @@ Homepage
 **Deliverables:**
 1. 5-8 gated whitepapers published
 2. 5-8 additional case studies (covering different industries and use cases)
-3. Interactive ROI calculators live
+3. Interactive cost calculators live
 4. 20-30 blog posts published (2-3 per week)
 5. First webinar conducted and recorded
 6. 5-10 product/technology videos produced
